@@ -1,0 +1,597 @@
+uid	name	birth_year	death_year	lifespan	death_details	killer
+ch0010187	Ros		300	Unknown	King's Landing,  the Crownlands	ch0156278
+ch0010188	Olenna Tyrell		304	Unknown	Highgarden,  the Reach	ch0158527
+ch0014591	Ryger Rivers		303	Unknown	The Twins,  the Riverlands	ch0158604
+ch0045904	Locke			Unknown		ch0238584
+ch0085768	The Bear			Unknown		
+ch0123670	Mero		299	Unknown	Meereen	ch0335040
+ch0145135	Catelyn Stark	264	300	36	The Twins,  the Riverlands	ch0014591
+ch0146096	Tyrion Lannister	273		Unknown		
+ch0153996	Benjen Stark	267	304	37	Beyond the Wall,  Westeros	ui0000029
+ch0154681	Eddard Stark	263	298	35	Great Sept of Baelor,  King's Landing	ch0246254
+ch0155775	Viserys Targaryen	276	298	22	Vaes Dothrak,  the Dothraki sea	ch0171388
+ch0155776	Robert Baratheon	252	298	46	Red Keep,  King's Landing	ui0000075
+ch0155777	Jon Snow	281	302	21	Castle Black,  the Gift	ch0508055
+ch0156278	Joffrey Baratheon	282	301	19	Red Keep,  King's Landing	ch0010188
+ch0158137	Sansa Stark	285		Unknown		
+ch0158221	Jorah Mormont	254		Unknown		ui0000029
+ch0158526	Theon Greyjoy	281	305	24	Winterfell,  the North	ch0512154
+ch0158527	Jaime Lannister	266		Unknown		
+ch0158596	Robb Stark	281	300	19	The Twins,  the Riverlands	ch0305006
+ch0158597	Daenerys Targaryen	281	305	24	Throne room,  King's Landing	ch0155777
+ch0158604	Arya Stark	287		Unknown		
+ch0159526	Cersei Lannister			Unknown		
+ch0162882	Sandor Clegane	270	305	35	Red Keep,  King's Landing	ch0162882
+ch0171388	Khal Drogo			Unknown		ch0158597
+ch0171390	Waymar Royce	278	298	20	The Haunted Forest,  beyond the Wall	ch0304921
+ch0171391	Rodrik Cassel	248	299	51	Winterfell,  the North	ch0158526
+ch0171393	Maester Luwin			Unknown		ch0295802
+ch0171394	Will		298	Unknown	Near Winterfell,  the North	ch0154681
+ch0171395	Gared	241	298	57	near Winterfell,  the North	ch0304921
+ch0172909	Illyrio Mopatis			Unknown		
+ch0229099	Mord			Unknown		
+ch0231428	Loras Tyrell		303	Unknown	Great Sept of Baelor,  King's Landing	ch0159526
+ch0232836	Grand Maester Pycelle			Unknown		
+ch0233141	Rickon Stark	292	303	11	Near Winterfell,  the North	ch0321004
+ch0234897	Bran Stark	288		Unknown		
+ch0238584	Hodor			Unknown		ui0000029
+ch0238585	Myrcella Baratheon	288	302	14	Narrow Sea,  near Dorne	ch0309687
+ch0241345	Bronn	264		Unknown		
+ch0241346	Barristan Selmy	236	302	66	Meereen	ui0000028
+ch0242185	Tywin Lannister	242	300	58	Tower of the Hand,  King's Landing	ch0146096
+ch0244961	Samwell Tarly	280		Unknown		
+ch0245400	Jory Cassel	273	298	25	King's Landing,  the Crownlands	ch0158527
+ch0245401	Gregor Clegane		305	Unknown	Red Keep,  King's Landing	ch0162882
+ch0245982	Petyr Baelish	268	304	36	Winterfell,  the North	ch0158604
+ch0246162	Qotho		298	Unknown	Dothraki sea	ch0158221
+ch0246253	Renly Baratheon	277	299	22	Near Storm's End,  the Stormlands	ch0287523
+ch0246254	Ilyn Payne			Unknown		
+ch0246933	Meryn Trant		302	Unknown		ch0158604
+ch0246934	Syrio Forel		298	Unknown	King's Landing	ch0246933
+ch0246936	Maester Aemon			Unknown		
+ch0246938	Alliser Thorne	247	303	56		ch0155777
+ch0248504	Doreah	274	299	25	Locked inside a vault to die by Daenerys Targaryen	ch0158597
+ch0248505	Septa Mordane			Unknown		
+ch0249444	Irri	283		Unknown		ch0248504
+ch0249636	Lord Varys			Unknown		ch0158597
+ch0250564	Shae	280	301	21	Tower of the Hand,  King's Landing	ch0146096
+ch0250897	Stannis Baratheon		302	Unknown	Wolfswood near Winterfell,  the North	ch0254503
+ch0251492	Jeor Mormont	230	299	69	Craster's Keep,  beyond the Wall	ch0251498
+ch0251493	Yoren		299	Unknown	Near Harrenhal,  the Riverlands	ch0305002
+ch0251495	Rakharo			Unknown		
+ch0251496	Grenn	281	301	20	Castle Black,  the Wall	ch0510933
+ch0251498	Rast			Unknown		ui0000005
+ch0251736	Lysa Arryn	266	301	35	The Eyrie,  the Vale of Arryn	ch0245982
+ch0251737	Jon Arryn	218	298	80	Red Keep,  King's Landing	ch0251736
+ch0251974	Margaery Tyrell		303	Unknown	Great Sept of Baelor,  King's Landing	ch0159526
+ch0254503	Brienne of Tarth			Unknown		
+ch0255280	Maester Cressen			Unknown		ch0255280
+ch0255396	Davos Seaworth	260		Unknown		
+ch0256424	Tommen Baratheon	289	303	14	Red Keep,  King's Landing	ch0256424
+ch0257030	Lommy Greenhands		299	Unknown	the riverlands	ch0305023
+ch0259178	Hallyne			Unknown		
+ch0259179	Jaqen H'ghar			Unknown		ch0259179
+ch0266524	Black Lorren		299	Unknown	Winterfell,  the North	
+ch0270368	Margaery's Handmaiden			Unknown		
+ch0273432	Hot Pie			Unknown		
+ch0273477	Pypar			Unknown		ch0304492
+ch0287523	Melisandre			Unknown		
+ch0292152	Balon Greyjoy		303	Unknown	Thrown from a bridge by Euron Greyjoy	ch0518715
+ch0294458	Vardis Egen		298	Unknown	The Eyrie,  the Vale of Arryn	ch0241345
+ch0295802	Osha			Unknown		ch0321004
+ch0300040	Gendry	284		Unknown		
+ch0300217	Yara Greyjoy			Unknown		
+ch0300218	Craster		300	Unknown	Craster's Keep,  beyond the Wall	ch0396528
+ch0300651	Janos Slynt		302	Unknown	Beheaded by Jon Snow for insubordination	ch0155777
+ch0300949	Robin Arryn	289		Unknown		
+ch0303950	Xaro Xhoan Daxos		299	Unknown	Locked inside his vault to die by Daenerys Targaryen	ch0158597
+ch0303951	Qhorin Halfhand		299	Unknown	Skirling Pass	ch0155777
+ch0303952	Pyat Pree			Unknown		ch0158597
+ch0304492	Ygritte	280	301	21	Castle Black,  the Wall	ch0508055
+ch0304494	Joyeuse Erenford	282		Unknown		ch0145135
+ch0304762	Dagmer Cleftjaw			Unknown		
+ch0304921	White Walker			Unknown		ch0158604
+ch0304969	Kovarro			Unknown		
+ch0304972	Stiv		298	Unknown	Shot in the back by Theon Greyjoy	ch0158526
+ch0305001	Marillion	279	300	21	the Eyrie	
+ch0305002	Amory Lorch	246	299	53	Harrenhal	ch0259179
+ch0305003	Othell Yarwyck		303	Unknown	Castle Black	ch0155777
+ch0305004	Timett	278		Unknown		
+ch0305005	Spice King		299	Unknown	Throat slit by a duplicate of Pyat Pree	ch0303952
+ch0305006	Roose Bolton	260	303	43	Winterfell,  the North	ch0321004
+ch0305007	Talisa Maegyr			Unknown		ch0384471
+ch0305008	Eddison Tollett		305	Unknown	Winterfell,  the North	ui0000040
+ch0305010	Greatjon Umber		300	Unknown	Died during the War of the Five Kings	
+ch0305011	Mirri Maz Duur		298	Unknown	The wastelands beyond Lhazar,  Essos	ch0158597
+ch0305012	Alton Lannister			Unknown		ch0158527
+ch0305013	Kevan Lannister	244	300	56	King's Landing	ch0159526
+ch0305014	Armeca			Unknown		
+ch0305015	Daisy			Unknown		
+ch0305018	Nan			Unknown		
+ch0305019	Rorge		301	Unknown	Near the Mountains of the Moon,  the Vale of Arryn	ch0158604
+ch0305021	Shagga			Unknown		
+ch0305022	Quaithe			Unknown		
+ch0305023	Polliver		300	Unknown	the inn at the crossroads	ch0158604
+ch0305026	Hugh of the Vale			Unknown		ch0245401
+ch0305027	Farlen		299	Unknown	Killed during the Sack of Winterfell	
+ch0305028	Biter		301	Unknown	Near the Mountains of the Moon	ch0162882
+ch0305029	Matthos Seaworth		299	Unknown	Killed by a wildfire explosion caused by Bronn,  on the orders of Tyrion Lannister,  during the Battle of the Blackwater	ch0241345
+ch0305030	Drennan		299	Unknown	Throat slit by Osha	ch0295802
+ch0305031	Dontos Hollard	261	300	39	Blackwater Bay	ch0245982
+ch0305033	The Tickler			Unknown		ch0259179
+ch0305034	Jacks			Unknown		
+ch0305036	Bowen Marsh			Unknown		ch0155777
+ch0305037	Goldcloak			Unknown		
+ch0305038	Mhaegen			Unknown		
+ch0305039	Tobho Mott			Unknown		
+ch0305040	Leo Lefford		299	Unknown	the Red Fork of the Trident	
+ch0305041	Lord Galbart Glover			Unknown		
+ch0305042	Pentoshi Servant			Unknown		
+ch0305043	Wight Wildling Girl			Unknown		
+ch0305044	Jhiqui	284		Unknown		
+ch0305045	Mycah	285	298	13	the riverlands,  near the ruby ford	ch0162882
+ch0305046	Catspaw Assassin			Unknown		ui0000023
+ch0305047	Lannister Guardsman			Unknown		
+ch0305048	Royal Steward			Unknown		
+ch0305308	Lannister Captain			Unknown		
+ch0305311	Stark Guard			Unknown		
+ch0305314	Masha Heddle		298	Unknown	Crossroads inn	
+ch0305315	Willis Wode		298	Unknown	The Eastern Road,  the Vale of Arryn	
+ch0305317	Knight of House Frey			Unknown		
+ch0305319	Night's Watch Deserter			Unknown		
+ch0305320	Beric Dondarrion	276	305	29	the riverlands	ui0000029
+ch0305321	Eon Hunter	220	299	79		
+ch0305322	Knight of House Lynderly			Unknown		
+ch0305323	Wine Merchant			Unknown		
+ch0305324	Jaremy Rykker		298	Unknown	Castle Black	
+ch0305325	Tomard			Unknown		
+ch0305326	Arthur			Unknown		
+ch0305327	Night's Watch Messenger			Unknown		ch0400416
+ch0305328	Walder Frey	208	303	95	The Twins,  the Riverlands	ch0158604
+ch0305329	Stevron Frey	233	303	70	The Twins,  the Riverlands	
+ch0305331	Rickard Karstark		299	Unknown	Riverrun	ch0158596
+ch0305332	Jonos Bracken			Unknown		
+ch0305333	Addam Marbrand			Unknown		
+ch0305334	Lord Portan			Unknown		
+ch0305888	Rattleshirt			Unknown		ch0316925
+ch0306046	Podrick Payne	286		Unknown		
+ch0306220	Mandon Moore		299	Unknown	the Blackwater Rush	ch0306046
+ch0306346	Shireen Baratheon	289	302	13	Near Long Lake,  the North	ch0287523
+ch0306456	Winterfell Shepherd			Unknown		
+ch0306819	Gilly	282		Unknown		
+ch0309687	Ellaria Sand		304	Unknown		
+ch0316921	Jojen Reed	286	301	15	Stabbed repeatedly by a wight and euthanized by Meera Reed	ch0316928
+ch0316922	Orell			Unknown		ch0155777
+ch0316923	Missandei	288		Unknown		ch0245401
+ch0316924	Selyse Baratheon		302	Unknown	Near Long Lake,  the North	ch0316924
+ch0316925	Tormund Giantsbane			Unknown		
+ch0316926	Myranda			Unknown		ch0158526
+ch0316927	Thoros of Myr			Unknown		
+ch0316928	Meera Reed	283		Unknown		
+ch0316929	Qyburn	217		Unknown		ch0245401
+ch0316930	Anguy			Unknown		
+ch0316931	Edmure Tully	270		Unknown		
+ch0321004	Ramsay Snow			Unknown		ch0158137
+ch0323607	Mirelle			Unknown		
+ch0327535	Woman Prisoner			Unknown		
+ch0334882	Maggy			Unknown		
+ch0335038	Grey Worm			Unknown		
+ch0335039	Mance Rayder			Unknown		ch0155777
+ch0335040	Daario Naharis			Unknown		
+ch0339503	Kraznys mo Nakloz		299	Unknown	Plaza of Punishment,  Astapor	ch0158597
+ch0339504	Prendahl na Ghezn		300	Unknown	Yunkai,  Slaver's Bay	ch0335040
+ch0345051	Silk King		299	Unknown	Throat slit by a duplicate of Pyat Pree	ch0303952
+ch0348391	Wildling Rioter			Unknown		ch0162882
+ch0348528	Mikken		299	Unknown	Winterfell,  the North	
+ch0350989	Colen of Greenpools			Unknown		
+ch0376927	Lancel Lannister	282		Unknown		ch0159526
+ch0379224	Lordsport Dockhand			Unknown		
+ch0379226	Varly		298	Unknown	Killed by the City Watch during a massacre	
+ch0379227	Mago			Unknown		ch0171388
+ch0379228	Lannister Messenger			Unknown		
+ch0379229	Red Keep Stableboy			Unknown		ch0158604
+ch0379230	Lannister Scout			Unknown		
+ch0381104	Salladhor Saan			Unknown		
+ch0381563	Brynden Tully	243	303	60	Riverrun,  the Riverlands	
+ch0384328	Mace Tyrell	256	303	47	Great Sept of Baelor,  King's Landing	ch0159526
+ch0384471	Lothar Frey	264	303	39	The Twins,  the Riverlands	ch0158604
+ch0391563	Roslin Frey	282		Unknown		
+ch0392307	Oberyn Martell	257	300	43	King's Landing	ch0245401
+ch0395355	Martyn Lannister	285		Unknown		ch0305331
+ch0395356	Willem Lannister	285	299	14	Riverrun	ch0305331
+ch0396528	Karl Tanner		301	Unknown	Craster's Keep,  beyond the Wall	ch0155777
+ch0396530	Steelshanks Walton			Unknown		
+ch0396531	Greizhen mo Ullhor		300	Unknown	Killed by the Unsullied on the orders of Daenerys Targaryen during the fall of Astapor	
+ch0400416	Styr		301	Unknown	Castle Black	ch0155777
+ch0403194	Olyvar			Unknown		
+ch0411375	Drowned Priest			Unknown		
+ch0413591	Razdal mo Eraz		303	Unknown	Meereen,  Slaver's Bay	ch0335038
+ch0414315	Child of the Forest			Unknown		
+ch0414457	Three-Eyed Raven			Unknown		ch0512154
+ch0414458	Hizdahr zo Loraq			Unknown		ui0000028
+ch0431526	Kayla			Unknown		
+ch0431527	Marei	280		Unknown		
+ch0441614	Male Prostitute			Unknown		
+ch0467999	Leaf			Unknown		ui0000029
+ch0468001	Obara Sand	271	304	33	The Black Wind,  Blackwater Bay	ch0518715
+ch0468006	Doran Martell	247		Unknown		ch0309687
+ch0468074	Nymeria Sand	274	304	30	The Black Wind,  Blackwater Bay	ch0518715
+ch0468075	Tyene Sand	276	304	28	King's Landing,  the Crownlands	ch0159526
+ch0468190	Tycho Nestoris			Unknown		
+ch0470706	Yezzan zo Qaggaz			Unknown		
+ch0473552	Ternesio Terys			Unknown		
+ch0476558	Lhara			Unknown		
+ch0476559	High Sparrow			Unknown		ch0159526
+ch0478670	Citadel Maester			Unknown		
+ch0506400	Trystane Martell	287		Unknown		ch0468001
+ch0506401	Walda Bolton		303	Unknown	Winterfell,  the North	ch0321004
+ch0506962	Wedding Band			Unknown		
+ch0507107	Areo Hotah	257		Unknown		ch0468075
+ch0508053	Mossador			Unknown		ch0335040
+ch0508054	The Waif			Unknown		ch0158604
+ch0508055	Olly			Unknown		ch0155777
+ch0508056	High Septon			Unknown		
+ch0509452	Todder			Unknown		
+ch0510932	Dongo the Giant			Unknown		
+ch0510933	Mag the Mighty			Unknown		ch0251496
+ch0511247	Lollys Stokeworth	265		Unknown		
+ch0511931	Loboda			Unknown		ch0304921
+ch0512154	The Night King			Unknown		ch0158604
+ch0512215	Septa Unella			Unknown		
+ch0512707	Karsi			Unknown		
+ch0517008	Stark Bannerman			Unknown		
+ch0518715	Euron Greyjoy		305	Unknown	Red Keep,  King's Landing	ch0158527
+ch0519184	Malko			Unknown		
+ch0523897	Talla Tarly	284		Unknown		
+ch0523969	Gatins		303	Unknown	The Riverlands,  the Seven Kingdoms	ch0162882
+ch0524408	Randyll Tarly		304	Unknown	Burned alive by Drogon on the orders of Daenerys Targaryen	ch0158597
+ch0524546	Yohn Royce			Unknown		
+ch0524621	Wun Wun			Unknown		ch0321004
+ch0525536	Great Master			Unknown		ch0158597
+ch0531846	Merchant Captain			Unknown		ch0468001
+ch0535371	Khal Rhalko			Unknown		ch0158597
+ch0537855	Handmaid			Unknown		
+ch0538748	Khal Moro			Unknown		ch0158597
+ch0539337	Brea			Unknown		
+ch0539344	Vala			Unknown		
+ch0539716	Lead Dornish Guard			Unknown		ch0241345
+ch0539881	Warlock			Unknown		
+ch0539898	High Priestess			Unknown		
+ch0540065	Kinvara			Unknown		
+ch0540066	Qhono			Unknown		
+ch0540067	Smalljon Umber		303	Unknown	Near Winterfell,  the North	ch0316925
+ch0540081	Aeron Greyjoy	269	303	34		
+ch0540082	Hoster Tully	238	300	62	Riverrun,  the Riverlands	
+ch0540097	Arthur Dayne	260	281	21	The Tower of Joy,  Dorne	ch0543132
+ch0540153	Ser Endrew Tarth			Unknown		
+ch0540530	Gerold Hightower			Unknown		ch0154681
+ch0540537	Ornela			Unknown		
+ch0540561	Izembaro			Unknown		
+ch0540863	Thin Man			Unknown		
+ch0540864	Captain of the Archers			Unknown		
+ch0540865	Septon			Unknown		
+ch0540866	Red Priestess			Unknown		
+ch0540869	Septa Scolera			Unknown		
+ch0540870	Zanrush			Unknown		
+ch0541190	Lady Crane		303	Unknown	Throat slit by the Waif	ch0508054
+ch0541191	Melessa Tarly			Unknown		
+ch0541362	Aerys II Targaryen		281	Unknown	Throne room,  King's Landing	
+ch0541363	Dickon Tarly	287	304	17	Burned alive by Drogon on the orders of Daenerys Targaryen	ch0158597
+ch0541364	Bianca			Unknown		
+ch0541747	Robett Glover			Unknown		
+ch0541790	Bobono			Unknown		
+ch0541878	Brother Ray			Unknown		ch0542106
+ch0541884	Lyanna Mormont	290		Unknown		
+ch0542106	Lem Lemoncloak			Unknown		ch0162882
+ch0542917	Harald Karstark			Unknown		
+ch0542918	Dothraki Bloodrider			Unknown		ch0158597
+ch0542919	Musician			Unknown		
+ch0543132	Howland Reed	260		Unknown		
+ch0543804	Lyanna Stark	266	281	15	Bled to death following a caesarean section to give birth to Jon Snow	
+ch0544229	Donnel Waynwood	277		Unknown		
+ch0544520	Akho			Unknown		ch0335040
+ch0547881	Baby Sam			Unknown		
+ch0550545	Maester Wolkan			Unknown		
+ch0576836	Alys Karstark	284		Unknown		
+ch0576869	Kitty Frey			Unknown		
+ch0578265	Archmaester Marwyn			Unknown		
+tt0944947	Ned Umber	294	305	11	Last Hearth,  the North	ch0512154
+ui0000001	Aegon Targaryen			Unknown		
+ui0000002	Brandon Stark	262	282	20	Great Hall,  King's Landing	
+ui0000003	Drogon			Unknown		
+ui0000004	Elia Martell			Unknown		
+ui0000005	Ghost			Unknown		
+ui0000006	Grey Wind			Unknown		
+ui0000007	Harry Strickland		305	Unknown	Speared in the back by Grey Worm during the Battle of King's Landing	ch0335038
+ui0000008	Jafer Flowers		298	Unknown	Killed and reanimated as a wight; subsequently burned by the Night's Watch	
+ui0000009	King Joffrey Baratheon Dwarf			Unknown		
+ui0000010	King Renly Baratheon Dwarf			Unknown		
+ui0000011	King Robb Stark Dwarf			Unknown		
+ui0000012	King Stannis Baratheon Dwarf			Unknown		
+ui0000013	Lady			Unknown		ch0154681
+ui0000014	Nymeria			Unknown		
+ui0000015	Othor			Unknown		ch0155777
+ui0000016	Rhaegal			Unknown		ch0518715
+ui0000017	Rhaegar Targaryen	258	281	23	Ruby Ford,  the Riverlands	
+ui0000018	Rhaego	298	298	0	Stillborn; caused by Mirri Maz Duur's bloodmagic	
+ui0000019	Rhaella Targaryen			Unknown		
+ui0000020	Rhaenys Targaryen			Unknown		
+ui0000021	Rickard Stark	230	281	51	Burned alive with wildfire by Aerys II Targaryen	
+ui0000022	Shaggydog			Unknown		ch0540067
+ui0000023	Summer			Unknown		ui0000029
+ui0000024	Viserion			Unknown		ch0158604
+ui0000025	Wallen		298	Unknown	Throat slashed by Robb Stark	ch0158596
+ui0000026	Frey Soldier			Unknown		ch0162882
+ui0000027	Ghita	292	302	10	Drank poisoned water from the House of Black and White provided by Arya Stark	ch0158604
+ui0000028	Sons of the Harpy			Unknown		
+ui0000029	Wights			Unknown		
+ui0000030	Soldier Tom			Unknown		ch0254503
+ui0000031	Bolton Officer			Unknown		ch0254503
+ui0000032	Oznak zo Pahl		299	Unknown	Meereen	ch0335040
+ui0000033	Iggo			Unknown		ch0335040
+ui0000034	Khal Brozho			Unknown		ch0158597
+ui0000035	Khal Qorro			Unknown		ch0158597
+ui0000036	Khal Forzho			Unknown		ch0158597
+ui0000037	Eleanor			Unknown		ch0158597
+ui0000038	Eleanor's Daughter			Unknown		ch0158597
+ui0000039	Zalla	298	301	3	Burned alive by Drogon	
+ui0000040	Wight			Unknown		
+ui0000041	Kevin Eldon			Unknown		ch0300040
+ui0000042	Laurence Spellman			Unknown		ch0300040
+ui0000043	Little Birds			Unknown		
+ui0000044	Rebel Slaves			Unknown		
+ui0000045	King's Landing Boaster			Unknown		ch0245401
+ui0000046	Faith Militant			Unknown		
+ui0000047	Unsullied			Unknown		
+ui0000048	Frey Crossbowmen			Unknown		
+ui0000049	Rennick		299	Unknown	Oxcross	ui0000006
+ui0000050	Belicho Paenymion			Unknown		ch0335038
+ui0000051	Kings Landing Rioters			Unknown		
+ui0000052	Torrhen Karstark		299	Unknown	the Whispering Wood	ch0158527
+ui0000053	Barra	298	299	1	Littlefinger's brothel,  King's Landing	ch0300651
+ui0000054	Despondent Man			Unknown		ch0259179
+ui0000055	Norvoshi Pit Fighter			Unknown		
+ui0000056	Meereenese Champion			Unknown		
+ui0000057	Pack of Wights			Unknown		
+ui0000058	Johnna			Unknown		
+ui0000059	Willa			Unknown		
+ui0000060	Wildling			Unknown		
+ui0000061	Mountain Clansman			Unknown		
+ui0000062	Catelyn Tully			Unknown		
+ui0000063	Donnel Hill			Unknown		ch0510933
+ui0000064	Cooper		301	Unknown	Castle Black,  the Wall	ch0510933
+ui0000065	Axell Florent		301	Unknown	Dragonstone,  Blackwater Bay,  the Crownlands	ch0287523
+ui0000066	Son of the Harpy		302	Unknown	Killed by Mossador	ch0508053
+ui0000067	Bolton Soldier			Unknown		ch0306046
+ui0000068	Khal Jhaqo's Khalasar			Unknown		
+ui0000069	Ramsay Snow's Hounds			Unknown		
+ui0000070	Master Torturer			Unknown		ch0321004
+ui0000071	Medger Cerwyn	255	302	47	Harrenhal	
+ui0000072	Lady Cerwyn			Unknown		
+ui0000073	Unidentified Cerwyn			Unknown		
+ui0000074	Woman			Unknown		ch0321004
+ui0000075	Boar			Unknown		
+ui0000076	Kings Landing Rioter			Unknown		
+ui0000077	Lowell			Unknown		
+ui0000078	Dying Man			Unknown		
+ui0000079	Steve		303	Unknown	The Riverlands,  the Seven Kingdoms	ch0162882
+ui0000080	Riddell		303	Unknown	The Riverlands,  the Seven Kingdoms	ch0162882
+ui0000081	Morgan			Unknown		ch0162882
+ui0000082	Gordy		302	Unknown	Stabbed in the throat by Stannis Baratheon during the battle in the ice	ch0250897
+ui0000083	Simpson		302	Unknown	Stabbed in the neck by Stannis Baratheon during the battle in the ice	ch0250897
+ui0000084	Olly's Mother			Unknown		ch0400416
+ui0000085	Tortured Prisoner			Unknown		ch0305033
+ui0000086	Harrag			Unknown		ch0158526
+ui0000087	Maester Caleotte			Unknown		ch0468075
+ui0000088	Man			Unknown		ch0162882
+ui0000089	Guymon		301	Unknown	Shot in the head with an arrow by Ygritte	ch0304492
+ui0000090	Mole's Town Whore			Unknown		ch0304492
+ui0000091	Quellon Greyjoy			Unknown		
+ui0000092	Aegon V Targaryen			Unknown		
+ui0000093	Daenerys I Targaryen			Unknown		
+ui0000094	Beric Dayne			Unknown		
+ui0000095	Alannys Harlaw			Unknown		
+ui0000096	Robert I Baratheon			Unknown		
+ui0000097	Lyonel Selmy			Unknown		
+ui0000098	Selwyn Tarth			Unknown		
+ui0000099	Minisa Whent			Unknown		
+ui0000100	Bran I the Broken			Unknown		
+ui0000101	All of his daughters			Unknown		
+ui0000102	Drogo	267	298	31	Lhazar	
+ui0000103	Marya Seaworth			Unknown		
+ui0000104	Melessa Florent	235		Unknown		
+ui0000105	Anya Waynwood			Unknown		
+ui0000106	Bharbo			Unknown		
+ui0000107	Son			Unknown		
+ui0000108	Joss			Unknown		
+ui0000109	Daughters			Unknown		
+ui0000110	Father			Unknown		
+ui0000111	Wife			Unknown		
+ui0000112	Jasper Arryn			Unknown		
+ui0000113	Lysa Tully			Unknown		
+ui0000114	Tanda Stokeworth			Unknown		
+ui0000115	Alerie Hightower			Unknown		
+ui0000116	Luthor Tyrell			Unknown		
+ui0000117	Olenna Redwyne			Unknown		
+ui0000118	Joffrey I Baratheon			Unknown		
+ui0000119	Tommen I Baratheon			Unknown		
+ui0000120	Cersei I Lannister			Unknown		
+ui0000121	YiTish noblewoman			Unknown		
+ui0000122	Lowborn Reachwoman			Unknown		
+ui0000123	Baelish			Unknown		
+ui0000124	Steffon Baratheon			Unknown		
+ui0000125	Cassana Estermont			Unknown		
+ui0000126	Gendry Baratheon			Unknown		
+ui0000127	Sybelle Locke			Unknown		
+ui0000128	Walda Frey			Unknown		
+ui0000129	Ramsay Bolton			Unknown		
+ui0000130	Milkmaid			Unknown		
+ui0000131	Sam			Unknown		
+ui0000132	Petyr Baratheon			Unknown		
+ui0000133	Tommard Baratheon			Unknown	Dragonstone,  the Crownlands	
+ui0000134	Edric Baratheon			Unknown		
+ui0000135	Dolf			Unknown		
+ui0000136	Selyse Florent			Unknown		
+ui0000137	Olyvar Frey			Unknown		
+ui0000138	Roslin Tully			Unknown		
+ui0000139	Waldron Frey			Unknown		
+ui0000140	Arwaya Frey			Unknown		
+ui0000141	Derwa Frey			Unknown		
+ui0000142	Waldra Frey			Unknown		
+ui0000143	Shirei Frey	292		Unknown		
+ui0000144	Walder Rivers		303	Unknown	The Twins,  the Riverlands	
+ui0000145	Andar Royce			Unknown		
+ui0000146	Elena Egen			Unknown		
+ui0000147	Robar Royce			Unknown		
+ui0000148	Goatherd			Unknown		
+ui0000149	Damon Marbrand			Unknown		
+ui0000150	Sunderly			Unknown		
+ui0000151	Sigorn of the Thenns			Unknown		
+ui0000152	Unnamed whore			Unknown		
+ui0000153	Lyarra Stark			Unknown		
+ui0000154	Tully			Unknown		
+ui0000155	Dale Seaworth			Unknown		
+ui0000156	Allard Seaworth			Unknown		
+ui0000157	Maric Seaworth			Unknown		
+ui0000158	Devan Seaworth			Unknown		
+ui0000159	Stannis Seaworth			Unknown		
+ui0000160	Steffon Seaworth			Unknown		
+ui0000161	Eleanor Mooton			Unknown		
+ui0000162	Steffon Hollard			Unknown		
+ui0000163	Martell			Unknown		
+ui0000164	Mellario of Norvos			Unknown		
+ui0000165	Arianne Martell			Unknown		
+ui0000166	Quentyn Martell			Unknown		
+ui0000167	Unborn child			Unknown		
+ui0000168	Harmen Uller			Unknown		
+ui0000169	Elia Sand			Unknown		
+ui0000170	Obella Sand			Unknown		
+ui0000171	Dorea Sand			Unknown		
+ui0000172	Loreza Sand			Unknown		
+ui0000173	Gilwood Hunter			Unknown		
+ui0000174	Eustace Hunter			Unknown		
+ui0000175	Harlan Hunter			Unknown		
+ui0000176	Palla			Unknown		
+ui0000177	Monster	299		Unknown		
+ui0000178	A baker			Unknown		
+ui0000179	Jyana			Unknown		
+ui0000180	Cousin to the Prince of Pentos			Unknown		
+ui0000181	Serra			Unknown		
+ui0000182	Joanna Lannister			Unknown		
+ui0000183	Mormont			Unknown		
+ui0000184	Jeyne Royce			Unknown		
+ui0000185	Rowena Arryn			Unknown		
+ui0000186	Stillborn daughter			Unknown		
+ui0000187	Two stillborn children			Unknown		
+ui0000188	Robert Arryn	292		Unknown		
+ui0000189	Wylla			Unknown		
+ui0000190	Ashara Dayne			Unknown		
+ui0000191	Fisherman's daughter			Unknown		
+ui0000192	Unknown			Unknown		
+ui0000193	Bracken			Unknown		
+ui0000194	Harry Rivers			Unknown		
+ui0000195	Barbara Bracken			Unknown		
+ui0000196	Jayne Bracken			Unknown		
+ui0000197	Catelyn Bracken			Unknown		
+ui0000198	Bess Bracken			Unknown		
+ui0000199	Alysanne Bracken			Unknown		
+ui0000200	Unnamed Glover			Unknown		
+ui0000201	Lynesse Hightower			Unknown		
+ui0000202	Martyn Cassel			Unknown		
+ui0000203	Tytos Lannister			Unknown		
+ui0000204	Jeyne Marbrand			Unknown		
+ui0000205	Dorna Swyft			Unknown		
+ui0000206	Janei Lannister			Unknown		
+ui0000207	Amerei Frey			Unknown		
+ui0000208	Bronn of the Blackwater			Unknown		
+ui0000209	Tyrion Tanner			Unknown		
+ui0000210	Alyssa Blackwood			Unknown		
+ui0000211	Leonella Lefford			Unknown		
+ui0000212	Tysane Frey			Unknown		
+ui0000213	Emberlei Frey			Unknown		
+ui0000214	Leana Frey			Unknown		
+ui0000215	Maege Mormont	239		Unknown		
+ui0000216	Willas Tyrell			Unknown		
+ui0000217	Garlan Tyrell			Unknown		
+ui0000218	Dacey Mormont			Unknown		
+ui0000219	Alysane Mormont			Unknown		
+ui0000220	Lyra Mormont			Unknown		
+ui0000221	Jorelle Mormont			Unknown		
+ui0000222	Jonelle Cerwyn			Unknown		
+ui0000223	Cley Cerwyn			Unknown		
+ui0000224	Alester Florent			Unknown		
+ui0000225	Melara Crane			Unknown		
+ui0000226	Two daughters			Unknown		
+ui0000227	A butcher			Unknown		
+ui0000228	A Volantene noblewoman			Unknown		
+ui0000229	An Oldtown whore			Unknown		
+ui0000230	Sarella Sand			Unknown		
+ui0000231	Alayne			Unknown		
+ui0000232	Harrion Karstark			Unknown		
+ui0000233	Eddard Karstark			Unknown		
+ui0000234	Edwyle Stark			Unknown		
+ui0000235	Marna Locke			Unknown		
+ui0000236	Sybelle Glover			Unknown		
+ui0000237	Gawen Glover			Unknown		
+ui0000238	Erena Glover			Unknown		
+ui0000239	Three wives			Unknown		
+ui0000240	Beth Cassel			Unknown		
+ui0000241	Unnamed			Unknown		
+ui0000242	Bethany Ryswell			Unknown		
+ui0000243	"""Fat"" Walda Frey"			Unknown		
+ui0000244	Sons who died in the cradle			Unknown		
+ui0000245	Domeric Bolton			Unknown		
+ui0000246	Bethany Rosby			Unknown		
+ui0000247	Unknown smallfolk			Unknown		
+ui0000248	Wives			Unknown		
+ui0000249	Clegane			Unknown		
+ui0000250	Ryam Florent			Unknown		
+ui0000251	Black Walder Frey			Unknown		
+ui0000252	Annara Farring			Unknown		
+ui0000253	Perra Royce			Unknown		
+ui0000254	Corenna Swann			Unknown		
+ui0000255	Jeyne Lydden			Unknown		
+ui0000256	Marsella Waynwood			Unknown		
+ui0000257	Ryman Frey			Unknown		
+ui0000258	Aegon Frey			Unknown		
+ui0000259	Maegelle Frey			Unknown		
+ui0000260	Walton Frey			Unknown		
+ui0000261	Yorko Terys			Unknown		
+ui0000262	Denyo Terys			Unknown		
+ui0000263	Mellario			Unknown		
+ui0000264	A septa from the Reach			Unknown		
+ui0000265	Tysha			Unknown		
+ui0000266	Frey			Unknown		
+ui0000267	Cyrenna Swann			Unknown		
+ui0000268	Amarei Crakehall			Unknown		
+ui0000269	Sarya Whent			Unknown		
+ui0000270	Emmon Frey			Unknown		
+ui0000271	Aenys Frey			Unknown		
+ui0000272	Perriane Frey			Unknown		
+ui0000273	Jared Frey			Unknown		
+ui0000274	Luceon Frey			Unknown		
+ui0000275	Hosteen Frey			Unknown		
+ui0000276	Lythene Frey			Unknown		
+ui0000277	Symond Frey			Unknown		
+ui0000278	Danwell Frey			Unknown		
+ui0000279	Merrett Frey			Unknown		
+ui0000280	Geremy Frey			Unknown		
+ui0000281	Raymund Frey			Unknown		
+ui0000282	Jammos Frey			Unknown		
+ui0000283	Whalen Frey			Unknown		
+ui0000284	Morya Frey			Unknown		
+ui0000285	Tyta Frey			Unknown		
+ui0000286	Perwyn Frey			Unknown		
+ui0000287	Willamen Frey			Unknown		
+ui0000288	Arwyn Frey			Unknown		
+ui0000289	Wendel Frey			Unknown		
+ui0000290	Colmar Frey			Unknown		
+ui0000291	Waltyr Frey			Unknown		
+ui0000292	Elmar Frey			Unknown		
+ui0000293	Melwys Rivers			Unknown		
+ui0000294	Jeyne Rivers			Unknown		
+ui0000295	Martyn Rivers			Unknown		
+ui0000296	Ronel Rivers			Unknown		
+ui0000297	Mellara Rivers			Unknown		
+ui0000298	Other bastards			Unknown		
+ui0000299	Ysilla Royce			Unknown		

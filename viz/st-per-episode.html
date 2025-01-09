@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <style type="text/css" media="screen, print">
+        body {
+            margin: 30px 50px;
+            font-family: sans-serif;
+        }
+
+        html,
+        body {
+            overflow-x: visible;
+            /* Allow horizontal overflow */
+            width: auto;
+            /* Remove any width constraint */
+        }
+
+        .tooltip {
+            position: absolute;
+            background: white;
+            border: 1px solid black;
+            padding: 5px;
+            border-radius: 5px;
+            pointer-events: none;
+            /* Prevent interference with other elements */
+            white-space: nowrap;
+            /* Prevent the tooltip content from wrapping */
+            opacity: 0;
+            /* Start hidden */
+        }
+    </style>
+    <title>Screentime per episode</title>
+</head>
+
+<body>
+    <h1>Screentime per episode</h1>
+
+    <script src="../vendor/d3-7.8.5/dist/d3.js"></script>
+    <script>
+        var body = d3.select("body")
+
+        Promise.all([
+            d3.tsv("../data/screentime_targaryen.tsv", d => ({
+                uid: d.uid,
+                name: d.name,
+                gender: d.gender,
+                screentime: +d.screentime, // convert to number for sorting
+                sids: d.sids
+            })),
+            d3.tsv("../data/episodes.tsv", d => ({
+                eid: d["#eid"],
+                title: d.title,
+                season: d.season,
+                episode: d.episode
+            })),
+            d3.tsv("../data/screentime_per_episode.tsv", d => ({
+                uid: d.uid,
+                eid: d.eid,
+                duration: d.duration
+            }))
+        ]).then(function ([characterData, episodeData, screenTimePerEpisodeData]) {
+            // Filter data to remove off-screen characters
+            characterData = characterData.filter((data) => data.sids.length > 0)
+
+            // Sort character after screentime
+            characterData.sort((a, b) => b.screentime - a.screentime)
+
+            var margin = {top: 20, right: 20, bottom: 20, left: 20},
+                cellSize = 20,
+                characterHeight = cellSize,
+                characterWidth = 145,
+                characterPadding = 0,
+                episodeWidth = cellSize,
+                episodeHeight = 350,
+                episodePadding = 0,
+                dotZonePadding = 10,
+                width = episodeData.length * (episodeWidth + episodePadding) + characterWidth + dotZonePadding + margin.left + margin.right,
+                height = characterData.length * (characterHeight + characterPadding) + episodeHeight + dotZonePadding + margin.top + margin.bottom
+
+            var div = d3.select('body').append('div')
+                .style('position', 'relative')
+
+            var svg = div.append('svg')
+                .attr('width', width)
+                .attr('height', height)
+                .append('g')
+                .attr('transform', `translate(${margin.left},${margin.top})`)
+
+            var yAxisRange = [
+                margin.top,
+                height - margin.bottom - episodeHeight + dotZonePadding
+            ]
+
+            var xAxisRange = [
+                margin.left + characterWidth + dotZonePadding,
+                width - margin.right
+            ]
+
+            var yScale = d3.scaleBand()
+                .domain(characterData.map(d => d.uid))
+                .range(yAxisRange)
+
+            var xScale = d3.scaleBand()
+                .domain(episodeData.map(d => d.eid))
+                .range(xAxisRange)
+
+            // Place names along y-axis
+            svg.selectAll("text.name")
+                .data(characterData)
+                .enter().append("text")
+                .attr("class", d => `character-name character-${d.uid}`)
+                .attr("x", margin.left + characterWidth)
+                .attr("y", d => yScale(d.uid) + yScale.bandwidth() / 2)
+                .attr("text-anchor", "end")
+                .attr("dy", "0.3em")
+                .text(d => d.name)
+
+            // Place episodes along x-axis
+            svg.selectAll(".episode-label")
+                .data(episodeData)
+                .enter().append("text")
+                .attr("class", d => `episode-label episode-${d.eid}`)
+                .attr("x", d => xScale(d.eid))
+                .attr("y", height - margin.bottom - episodeHeight)
+                .attr("text-anchor", "end")
+                .attr("transform", d => `translate(${3 * episodeWidth / 4}, ${dotZonePadding}) \
+                        rotate(-90, ${xScale(d.eid)}, ${height - margin.bottom - episodeHeight})`)
+                .text(d => `${d.title} : ${d.eid}`)
+
+            // Zones showing seasons
+            var episodesPerSeason = Array.from(d3.rollup(episodeData, v => v.length, d => d.season))
+            var seasonColors = d3.scaleOrdinal(d3.schemeCategory10)
+                .domain(episodesPerSeason.map(d => d[0]))
+
+            var seasonZones = svg.selectAll(".season-zone")
+                .data(episodesPerSeason)
+                .enter().append("rect")
+                .attr("class", "season-zone")
+                .attr("x", (d) => {
+                    var firstEpisode = episodeData.find(e => e.season === d[0])
+                    return xScale(firstEpisode.eid)
+                })
+                .attr("y", margin.top)
+                .attr("width", (d) => {
+                    return episodeWidth * d[1]
+                })
+                .attr("height", height - margin.top - margin.bottom - episodeHeight + dotZonePadding)
+                .style("fill", (d) => seasonColors(d[0]))
+                .style("fill-opacity", 0.2)
+                .style("stroke", "none")
+
+
+            // Lines to hide and show on hovering a dot
+            var horizontalLine = svg.append("line")
+                .attr("class", "hover-line horizontal")
+                .attr("stroke", "gray")
+                .attr("stroke-dasharray", "4,2")
+                .style("opacity", 0)
+
+            var verticalLine = svg.append("line")
+                .attr("class", "hover-line vertical")
+                .attr("stroke", "gray")
+                .attr("stroke-dasharray", "4,2")
+                .style("opacity", 0)
+
+            // Create an infobox (tooltip)
+            var tooltip = d3.select("body")
+                .append("div")
+                .attr("class", "tooltip")
+                .style("position", "absolute")
+                .style("background", "white")
+                .style("border", "1px solid black")
+                .style("padding", "5px")
+                .style("border-radius", "5px")
+                .style("pointer-events", "none")
+                .style("whilte-space", "nowrap")
+                .style("opacity", 0)
+
+            // Create a scale for the radius of dots
+            var durations = screenTimePerEpisodeData.map(d => d.duration)
+            var maxDuration = Math.max(...durations)
+
+            var radiusScale = d3.scaleSqrt()
+                .domain([0, maxDuration])
+                .range([0.5, cellSize / 2])
+
+            // Add interaction zones
+            var interactionZone = svg.selectAll(".interaction-zone")
+                .data(screenTimePerEpisodeData)
+                .enter().append("g")
+                .attr("class", "interaction-zone")
+
+            // Draw dots
+            interactionZone.append("circle")
+                .attr("class", "screen-time-dot")
+                .attr("cx", d => xScale(d.eid) + episodeWidth / 2)
+                .attr("cy", d => yScale(d.uid) + characterHeight / 2)
+                .attr("r", d => radiusScale(d.duration))
+                .attr("fill", d => {
+                    var episode = episodeData.find(e => e.eid === d.eid)
+                    return seasonColors(episode.season)
+                })
+                .attr("stroke", d3.color("black"))
+
+            // Add interaction zone functionality
+            interactionZone.append("rect")
+                .attr("x", d => xScale(d.eid))
+                .attr("y", d => yScale(d.uid))
+                .attr("width", cellSize)
+                .attr("height", cellSize)
+                .style("fill", "none")
+                .style("pointer-events", "all")
+                .on("mouseover", function (event, d) {
+                    d3.select(`.character-${d.uid}`)
+                        .style("fill", "red")
+
+                    d3.select(`.episode-${d.eid}`)
+                        .style("fill", "red")
+
+                    var episode = episodeData.find(e => e.eid === d.eid)
+                    var character = characterData.find(c => c.uid === d.uid)
+                    var screentime = new Date(d.duration * 1000).toISOString().slice(11, 19);
+
+                    tooltip.style("opacity", 1)
+                        .html(`<strong>${character.name}</strong>  <br>
+                        <strong>${episode.eid}:</strong> ${episode.title} <br>
+                        <strong>Screentime:</strong> ${screentime} <br> `)
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 20) + "px")
+
+                    horizontalLine
+                        .attr("x1", margin.left + characterWidth)
+                        .attr("y1", yScale(d.uid) + characterHeight / 2)
+                        .attr("x2", width - margin.right)
+                        .attr("y2", yScale(d.uid) + characterHeight / 2)
+                        .style("opacity", 1)
+
+                    verticalLine
+                        .attr("x1", xScale(d.eid) + episodeWidth / 2)
+                        .attr("y1", margin.top)
+                        .attr("x2", xScale(d.eid) + episodeWidth / 2)
+                        .attr("y2", height - margin.bottom - episodeHeight + dotZonePadding)
+                        .style("opacity", 1)
+                })
+                .on("mousemove", function (event) {
+                    var mouseX = event.pageX
+                    var mouseY = event.pageY
+                    var tooltipWidth = tooltip.node().offsetWidth
+                    var svgRightEdge = d3.select("svg").node().getBoundingClientRect().right
+
+                    var leftPosition = mouseX + 10;
+                    if (mouseX + tooltipWidth + 10 > svgRightEdge) {
+                        leftPosition = mouseX - tooltipWidth - 10
+                    }
+
+                    tooltip.style("left", leftPosition + "px")
+                        .style("top", (mouseY + 20) + "px")
+                })
+                .on("mouseout", function (event, d) {
+                    tooltip.style("opacity", 0)
+
+                    d3.select(`.character-${d.uid}`)
+                        .style("fill", "black")
+
+                    d3.select(`.episode-${d.eid}`)
+                        .style("fill", "black")
+
+                    horizontalLine.style("opacity", 0)
+                    verticalLine.style("opacity", 0)
+                })
+        });
+    </script>
+</body>
+
+</html>

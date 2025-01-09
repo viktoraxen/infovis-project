@@ -1,0 +1,661 @@
+#uid	name
+ch0010187	Ros
+ch0010188	Olenna Tyrell
+ch0014591	Black Walder Rivers
+ch0014591	Ryger Rivers
+ch0045904	Locke
+ch0085768	The Bear
+ch0123670	Mero
+ch0145135	Catelyn Stark
+ch0146096	Tyrion Lannister
+ch0153996	Benjen Stark
+ch0153996	Young Benjen Stark
+ch0154681	Eddard Stark
+ch0154681	Ned
+ch0154681	Ned Stark
+ch0154681	Young Ned
+ch0154681	Young Ned Stark
+ch0155775	Viserys Targaryen
+ch0155776	Robert Baratheon
+ch0155777	Jon Snow
+ch0156278	Joffrey Baratheon
+ch0158137	Sansa Stark
+ch0158221	Jorah Mormont
+ch0158526	Theon Greyjoy
+ch0158527	Jaime Lannister
+ch0158596	Robb Stark
+ch0158597	Daenerys Targaryen
+ch0158604	Arya Stark
+ch0159526	Cersei Lannister
+ch0159526	Young Cersei Lannister
+ch0162882	Sandor Clegane
+ch0171388	Khal Drogo
+ch0171390	Waymar Royce
+ch0171391	Rodrik Cassel
+ch0171391	Young Rodrik Cassel
+ch0171393	Maester Luwin
+ch0171394	Will
+ch0171395	Gared
+ch0172909	Illyrio Mopatis
+ch0229099	Mord
+ch0231428	Loras Tyrell
+ch0232836	Grand Maester Pycelle
+ch0233141	Rickon Stark
+ch0234897	Bran Stark
+ch0238584	Hodor
+ch0238584	Wyllis
+ch0238585	Myrcella Baratheon
+ch0241345	Bronn
+ch0241346	Barristan Selmy
+ch0242185	Tywin Lannister
+ch0244961	Samwell Tarly
+ch0245400	Jory Cassel
+ch0245401	Gregor Clegane
+ch0245982	Petyr Baelish
+ch0246162	Qotho
+ch0246253	Renly Baratheon
+ch0246254	Ilyn Payne
+ch0246933	Meryn Trant
+ch0246934	Syrio Forel
+ch0246936	Maester Aemon
+ch0246938	Alliser Thorne
+ch0248504	Doreah
+ch0248505	Septa Mordane
+ch0249444	Irri
+ch0249636	Lord Varys
+ch0250564	Shae
+ch0250897	Stannis Baratheon
+ch0251492	Jeor Mormont
+ch0251493	Yoren
+ch0251495	Rakharo
+ch0251496	Grenn
+ch0251498	Rast
+ch0251736	Lysa Arryn
+ch0251737	Jon Arryn
+ch0251974	Margaery Tyrell
+ch0254503	Brienne of Tarth
+ch0255280	Maester Cressen
+ch0255396	Davos Seaworth
+ch0256424	Tommen Baratheon
+ch0257030	Lommy Greenhands
+ch0259178	Hallyne
+ch0259179	Faceless Man
+ch0259179	Jaqen H'ghar
+ch0259179	Jaqen's Disguise
+ch0266524	Black Lorren
+ch0270368	Margaery's Handmaiden
+ch0273432	Hot Pie
+ch0273477	Pypar
+ch0287523	Melisandre
+ch0292152	Balon Greyjoy
+ch0294458	Vardis Egen
+ch0295802	Osha
+ch0300040	Gendry
+ch0300217	Yara Greyjoy
+ch0300218	Craster
+ch0300651	Janos Slynt
+ch0300949	Robin Arryn
+ch0303950	Xaro Xhoan Daxos
+ch0303951	Qhorin Halfhand
+ch0303952	Pyat Pree
+ch0304492	Ygritte
+ch0304494	Joyeuse Erenford
+ch0304762	Dagmer Cleftjaw
+ch0304921	White Walker
+ch0304921	White Walker #2
+ch0304969	Kovarro
+ch0304972	Stiv
+ch0305001	Marillion
+ch0305002	Amory Lorch
+ch0305003	Othell Yarwyck
+ch0305004	Timett
+ch0305005	Spice King
+ch0305006	Roose Bolton
+ch0305007	Talisa Maegyr
+ch0305008	Eddison Tollett
+ch0305010	Greatjon Umber
+ch0305011	Mirri Maz Duur
+ch0305012	Alton Lannister
+ch0305013	Kevan Lannister
+ch0305014	Armeca
+ch0305015	Daisy
+ch0305018	Nan
+ch0305018	Old Nan
+ch0305018	Young Nan
+ch0305019	Rorge
+ch0305021	Shagga
+ch0305022	Quaithe
+ch0305023	Polliver
+ch0305026	Hugh of the Vale
+ch0305027	Farlen
+ch0305028	Biter
+ch0305029	Matthos Seaworth
+ch0305030	Drennan
+ch0305031	Dontos Hollard
+ch0305033	The Tickler
+ch0305034	Jacks
+ch0305036	Bowen Marsh
+ch0305036	Night's Watch Officer
+ch0305037	Goldcloak
+ch0305037	Goldcloak #1
+ch0305037	Goldcloak #2
+ch0305038	Mhaegen
+ch0305039	Tobho Mott
+ch0305040	Leo Lefford
+ch0305041	Lord Galbart Glover
+ch0305042	Pentoshi Servant
+ch0305043	Wight Wildling Girl
+ch0305044	Jhiqui
+ch0305045	Mycah
+ch0305046	Catspaw Assassin
+ch0305047	Lannister Guardsman
+ch0305048	Royal Steward
+ch0305308	Lannister Captain
+ch0305311	Stark Guard
+ch0305314	Masha Heddle
+ch0305315	Kurleket
+ch0305315	Willis Wode
+ch0305317	Knight of House Frey
+ch0305319	Night's Watch Deserter
+ch0305320	Beric Dondarrion
+ch0305321	Eon Hunter
+ch0305322	Knight of House Lynderly
+ch0305323	Wine Merchant
+ch0305324	Jaremy Rykker
+ch0305325	Tomard
+ch0305326	Arthur
+ch0305326	Little Bird
+ch0305326	Little Bird #3
+ch0305326	Little Bird #4
+ch0305326	Little Bird #5
+ch0305326	Little Bird #6
+ch0305326	Little Bird #7
+ch0305327	Kegs
+ch0305327	Night's Watch Messenger
+ch0305328	Walder Frey
+ch0305329	Stevron Frey
+ch0305331	Rickard Karstark
+ch0305332	Jonos Bracken
+ch0305333	Addam Marbrand
+ch0305334	Lord Portan
+ch0305888	Rattleshirt
+ch0306046	Podrick Payne
+ch0306220	Mandon Moore
+ch0306346	Shireen Baratheon
+ch0306456	Winterfell Shepherd
+ch0306819	Gilly
+ch0309687	Ellaria Sand
+ch0316921	Jojen Reed
+ch0316922	Orell
+ch0316923	Missandei
+ch0316924	Selyse Baratheon
+ch0316925	Tormund Giantsbane
+ch0316926	Myranda
+ch0316927	Thoros of Myr
+ch0316928	Meera Reed
+ch0316929	Qyburn
+ch0316930	Anguy
+ch0316931	Edmure Tully
+ch0321004	Ramsay Snow
+ch0323607	Mirelle
+ch0327535	Old Woman Prisoner
+ch0327535	Woman Prisoner
+ch0334882	Maggy
+ch0335038	Grey Worm
+ch0335039	Mance Rayder
+ch0335040	Daario Naharis
+ch0339503	Kraznys mo Nakloz
+ch0339504	Prendahl na Ghezn
+ch0345051	Silk King
+ch0348391	King's Landing Rioter
+ch0348391	King's Landing Rioter #1
+ch0348391	King's Landing Rioter #2
+ch0348391	King's Landing Rioter #3
+ch0348391	Northman Rioter
+ch0348391	Wildling Rioter
+ch0348528	Mikken
+ch0350989	Baratheon Guard
+ch0350989	Colen of Greenpools
+ch0376927	Lancel Lannister
+ch0379224	Lordsport Dockhand
+ch0379226	Varly
+ch0379227	Mago
+ch0379228	Lannister Messenger
+ch0379229	Red Keep Stableboy
+ch0379230	Lannister Scout
+ch0381104	Salladhor Saan
+ch0381563	Brynden Tully
+ch0384328	Mace Tyrell
+ch0384471	Lothar Frey
+ch0391563	Roslin Frey
+ch0392307	Oberyn Martell
+ch0395355	Martyn Lannister
+ch0395356	Willem Lannister
+ch0396528	Karl Tanner
+ch0396530	Steelshanks Walton
+ch0396531	Greizhen mo Ullhor
+ch0400416	Styr
+ch0400416	Thenn Warg
+ch0403194	Olyvar
+ch0411375	Drowned Priest
+ch0413591	Razdal mo Eraz
+ch0414315	Child of the Forest
+ch0414457	Three-Eyed Raven
+ch0414458	Hizdahr zo Loraq
+ch0431526	Kayla
+ch0431527	Marei
+ch0441614	Male Prostitute
+ch0467999	Leaf
+ch0468001	Obara Sand
+ch0468006	Doran Martell
+ch0468074	Nymeria Sand
+ch0468075	Tyene Sand
+ch0468190	Tycho Nestoris
+ch0470706	Yezzan zo Qaggaz
+ch0473552	Ternesio Terys
+ch0476558	Lhara
+ch0476559	High Sparrow
+ch0478670	Citadel Maester
+ch0506400	Trystane Martell
+ch0506401	Walda Bolton
+ch0506962	Wedding Band
+ch0507107	Areo Hotah
+ch0508053	Mossador
+ch0508054	The Waif
+ch0508055	Olly
+ch0508056	High Septon
+ch0509452	Loyal Night's Watchman
+ch0509452	Loyal Night's Watchman #1
+ch0509452	Loyal Night's Watchman #2
+ch0509452	Night's Watchman
+ch0509452	Night's Watchman #1
+ch0509452	Night's Watchman #2
+ch0509452	Todder
+ch0510932	Dongo the Giant
+ch0510933	Mag the Mighty
+ch0511247	Lollys Stokeworth
+ch0511931	Loboda
+ch0512154	The Night King
+ch0512215	Septa Unella
+ch0512707	Karsi
+ch0517008	Stark Bannerman
+ch0518715	Euron Greyjoy
+ch0519184	Malko
+ch0523897	Talla Tarly
+ch0523969	Gatins
+ch0524408	Randyll Tarly
+ch0524546	Yohn Royce
+ch0524621	Wun Wun
+ch0525536	Great Master
+ch0525536	Great Master #1
+ch0525536	Great Master #2
+ch0525536	Great Master #3
+ch0525536	Great Master #4
+ch0525536	Great Master #5
+ch0525536	Great Master #6
+ch0525536	Great Master #7
+ch0525536	Manservant
+ch0525536	Meereen Slave Master
+ch0531846	Merchant Captain
+ch0535371	Khal Rhalko
+ch0537855	Handmaid
+ch0538748	Khal Moro
+ch0539337	Brea
+ch0539344	Vala
+ch0539716	Lead Dornish Guard
+ch0539881	Warlock
+ch0539898	High Priestess
+ch0540065	Kinvara
+ch0540066	Qhono
+ch0540067	Smalljon Umber
+ch0540081	Aeron Greyjoy
+ch0540082	Hoster Tully
+ch0540097	Arthur Dayne
+ch0540153	Ser Endrew Tarth
+ch0540530	Gerold Hightower
+ch0540537	Ornela
+ch0540561	Izembaro
+ch0540863	Thin Man
+ch0540864	Captain of the Archers
+ch0540865	Septon
+ch0540866	Red Priestess
+ch0540869	Septa Moelle
+ch0540869	Septa Scolera
+ch0540870	Zanrush
+ch0541190	Lady Crane
+ch0541191	Melessa Tarly
+ch0541362	Aerys II Targaryen
+ch0541363	Dickon Tarly
+ch0541364	Bianca
+ch0541747	Robett Glover
+ch0541790	Bobono
+ch0541878	Brother Ray
+ch0541884	Lyanna Mormont
+ch0542106	Lem Lemoncloak
+ch0542917	Harald Karstark
+ch0542918	Dothraki Bloodrider
+ch0542918	Dothraki Bloodrider #1
+ch0542918	Dothraki Bloodrider #2
+ch0542919	Musician
+ch0542919	Musician #1
+ch0542919	Musician #2
+ch0542919	Musician #3
+ch0542919	Musician #4
+ch0542919	Musician #5
+ch0543132	Howland Reed
+ch0543804	Lyanna Stark
+ch0543804	Young Lyanna Stark
+ch0544229	Donnel Waynwood
+ch0544520	Akho
+ch0547881	Baby Sam
+ch0550545	Maester Wolkan
+ch0576836	Alys Karstark
+ch0576869	Kitty Frey
+ch0578265	Archmaester Marwyn
+tt0944947	Ned Umber
+ui0000001	Aegon Targaryen
+ui0000002	Brandon Stark
+ui0000003	Drogon
+ui0000004	Elia Martell
+ui0000005	Ghost
+ui0000006	Grey Wind
+ui0000007	Harry Strickland
+ui0000008	Jafer Flowers
+ui0000009	King Joffrey Baratheon Dwarf
+ui0000010	King Renly Baratheon Dwarf
+ui0000011	King Robb Stark Dwarf
+ui0000012	King Stannis Baratheon Dwarf
+ui0000013	Lady
+ui0000014	Nymeria
+ui0000015	Othor
+ui0000016	Rhaegal
+ui0000017	Rhaegar Targaryen
+ui0000018	Rhaego
+ui0000019	Rhaella Targaryen
+ui0000020	Rhaenys Targaryen
+ui0000021	Rickard Stark
+ui0000022	Shaggydog
+ui0000023	Summer
+ui0000024	Viserion
+ui0000025	Wallen
+ui0000026	Frey Soldier
+ui0000026	Frey Soldier #1
+ui0000026	Frey Soldier #2
+ui0000027	Ghita
+ui0000028	Sons of the Harpy
+ui0000029	Wights
+ui0000030	Soldier Tom
+ui0000031	Bolton Officer
+ui0000032	Oznak zo Pahl
+ui0000033	Iggo
+ui0000034	Khal Brozho
+ui0000035	Khal Qorro
+ui0000036	Khal Forzho
+ui0000037	Eleanor
+ui0000038	Eleanor's Daughter
+ui0000039	Zalla
+ui0000040	Wight
+ui0000041	Kevin Eldon
+ui0000042	Laurence Spellman
+ui0000043	Little Birds
+ui0000044	Rebel Slaves
+ui0000045	King's Landing Boaster
+ui0000046	Faith Militant
+ui0000047	Unsullied
+ui0000048	Frey Crossbowmen
+ui0000049	Rennick
+ui0000050	Belicho Paenymion
+ui0000051	Kings Landing Rioters
+ui0000052	Torrhen Karstark
+ui0000053	Barra
+ui0000054	Despondent Man
+ui0000055	Norvoshi Pit Fighter
+ui0000056	Meereenese Champion
+ui0000057	Pack of Wights
+ui0000058	Johnna
+ui0000059	Willa
+ui0000060	Wildling
+ui0000061	Mountain Clansman
+ui0000062	Catelyn Tully
+ui0000063	Donnel Hill
+ui0000064	Cooper
+ui0000065	Axell Florent
+ui0000066	Son of the Harpy
+ui0000067	Bolton Soldier
+ui0000068	Khal Jhaqo's Khalasar
+ui0000069	Ramsay Snow's Hounds
+ui0000070	Master Torturer
+ui0000071	Medger Cerwyn
+ui0000072	Lady Cerwyn
+ui0000073	Unidentified Cerwyn
+ui0000074	Old Woman
+ui0000074	Woman
+ui0000075	Boar
+ui0000076	Kings Landing Rioter
+ui0000076	Kings Landing Rioter #1
+ui0000076	Kings Landing Rioter #2
+ui0000076	Kings Landing Rioter #3
+ui0000077	Lowell
+ui0000078	Dying Man
+ui0000079	Steve
+ui0000080	Riddell
+ui0000081	Morgan
+ui0000082	Gordy
+ui0000083	Simpson
+ui0000084	Olly's Mother
+ui0000085	Tortured Prisoner
+ui0000086	Harrag
+ui0000087	Maester Caleotte
+ui0000088	Man
+ui0000088	Old Man
+ui0000089	Guymon
+ui0000090	Mole's Town Whore
+ui0000091	Quellon Greyjoy
+ui0000092	Aegon V Targaryen
+ui0000093	Daenerys I Targaryen
+ui0000094	Beric Dayne
+ui0000095	Alannys Harlaw
+ui0000096	Robert I Baratheon
+ui0000097	Lyonel Selmy
+ui0000098	Selwyn Tarth
+ui0000099	Minisa Whent
+ui0000100	Bran I the Broken
+ui0000101	All of his daughters
+ui0000102	Drogo
+ui0000103	Marya Seaworth
+ui0000104	Melessa Florent
+ui0000105	Anya Waynwood
+ui0000106	Bharbo
+ui0000107	Son
+ui0000108	Joss
+ui0000109	Daughters
+ui0000110	Father
+ui0000111	Wife
+ui0000112	Jasper Arryn
+ui0000113	Lysa Tully
+ui0000114	Tanda Stokeworth
+ui0000115	Alerie Hightower
+ui0000116	Luthor Tyrell
+ui0000117	Olenna Redwyne
+ui0000118	Joffrey I Baratheon
+ui0000119	Tommen I Baratheon
+ui0000120	Cersei I Lannister
+ui0000121	YiTish noblewoman
+ui0000122	Lowborn Reachwoman
+ui0000123	Baelish
+ui0000124	Steffon Baratheon
+ui0000125	Cassana Estermont
+ui0000126	Gendry Baratheon
+ui0000127	Sybelle Locke
+ui0000128	Walda Frey
+ui0000129	Ramsay Bolton
+ui0000130	Milkmaid
+ui0000131	Sam
+ui0000132	Petyr Baratheon
+ui0000133	Tommard Baratheon
+ui0000134	Edric Baratheon
+ui0000135	Dolf
+ui0000136	Selyse Florent
+ui0000137	Olyvar Frey
+ui0000138	Roslin Tully
+ui0000139	Waldron Frey
+ui0000140	Arwaya Frey
+ui0000141	Derwa Frey
+ui0000142	Waldra Frey
+ui0000143	Shirei Frey
+ui0000144	Walder Rivers
+ui0000145	Andar Royce
+ui0000146	Elena Egen
+ui0000147	Robar Royce
+ui0000148	Goatherd
+ui0000149	Damon Marbrand
+ui0000150	Sunderly
+ui0000151	Sigorn of the Thenns
+ui0000152	Unnamed whore
+ui0000153	Lyarra Stark
+ui0000154	Tully
+ui0000155	Dale Seaworth
+ui0000156	Allard Seaworth
+ui0000157	Maric Seaworth
+ui0000158	Devan Seaworth
+ui0000159	Stannis Seaworth
+ui0000160	Steffon Seaworth
+ui0000161	Eleanor Mooton
+ui0000162	Steffon Hollard
+ui0000163	Martell
+ui0000164	Mellario of Norvos
+ui0000165	Arianne Martell
+ui0000166	Quentyn Martell
+ui0000167	Unborn child
+ui0000168	Harmen Uller
+ui0000169	Elia Sand
+ui0000170	Obella Sand
+ui0000171	Dorea Sand
+ui0000172	Loreza Sand
+ui0000173	Gilwood Hunter
+ui0000174	Eustace Hunter
+ui0000175	Harlan Hunter
+ui0000176	Palla
+ui0000177	Monster
+ui0000178	A baker
+ui0000179	Jyana
+ui0000180	Cousin to the Prince of Pentos
+ui0000181	Serra
+ui0000182	Joanna Lannister
+ui0000183	Mormont
+ui0000184	Jeyne Royce
+ui0000185	Rowena Arryn
+ui0000186	Stillborn daughter
+ui0000187	Two stillborn children
+ui0000188	Robert Arryn
+ui0000189	Wylla
+ui0000190	Ashara Dayne
+ui0000191	Fisherman's daughter
+ui0000192	Unknown
+ui0000193	Bracken
+ui0000194	Harry Rivers
+ui0000195	Barbara Bracken
+ui0000196	Jayne Bracken
+ui0000197	Catelyn Bracken
+ui0000198	Bess Bracken
+ui0000199	Alysanne Bracken
+ui0000200	Unnamed Glover
+ui0000201	Lynesse Hightower
+ui0000202	Martyn Cassel
+ui0000203	Tytos Lannister
+ui0000204	Jeyne Marbrand
+ui0000205	Dorna Swyft
+ui0000206	Janei Lannister
+ui0000207	Amerei Frey
+ui0000208	Bronn of the Blackwater
+ui0000209	Tyrion Tanner
+ui0000210	Alyssa Blackwood
+ui0000211	Leonella Lefford
+ui0000212	Tysane Frey
+ui0000213	Emberlei Frey
+ui0000214	Leana Frey
+ui0000215	Maege Mormont
+ui0000216	Willas Tyrell
+ui0000217	Garlan Tyrell
+ui0000218	Dacey Mormont
+ui0000219	Alysane Mormont
+ui0000220	Lyra Mormont
+ui0000221	Jorelle Mormont
+ui0000222	Jonelle Cerwyn
+ui0000223	Cley Cerwyn
+ui0000224	Alester Florent
+ui0000225	Melara Crane
+ui0000226	Two daughters
+ui0000227	A butcher
+ui0000228	A Volantene noblewoman
+ui0000229	An Oldtown whore
+ui0000230	Sarella Sand
+ui0000231	Alayne
+ui0000232	Harrion Karstark
+ui0000233	Eddard Karstark
+ui0000234	Edwyle Stark
+ui0000235	Marna Locke
+ui0000236	Sybelle Glover
+ui0000237	Gawen Glover
+ui0000238	Erena Glover
+ui0000239	Three wives
+ui0000240	Beth Cassel
+ui0000241	Unnamed
+ui0000242	Bethany Ryswell
+ui0000243	"Fat" Walda Frey
+ui0000244	Sons who died in the cradle
+ui0000245	Domeric Bolton
+ui0000246	Bethany Rosby
+ui0000247	Unknown smallfolk
+ui0000248	Wives
+ui0000249	Clegane
+ui0000250	Ryam Florent
+ui0000251	Black Walder Frey
+ui0000252	Annara Farring
+ui0000253	Perra Royce
+ui0000254	Corenna Swann
+ui0000255	Jeyne Lydden
+ui0000256	Marsella Waynwood
+ui0000257	Ryman Frey
+ui0000258	Aegon Frey
+ui0000259	Maegelle Frey
+ui0000260	Walton Frey
+ui0000261	Yorko Terys
+ui0000262	Denyo Terys
+ui0000263	Mellario
+ui0000264	A septa from the Reach
+ui0000265	Tysha
+ui0000266	Frey
+ui0000267	Cyrenna Swann
+ui0000268	Amarei Crakehall
+ui0000269	Sarya Whent
+ui0000270	Emmon Frey
+ui0000271	Aenys Frey
+ui0000272	Perriane Frey
+ui0000273	Jared Frey
+ui0000274	Luceon Frey
+ui0000275	Hosteen Frey
+ui0000276	Lythene Frey
+ui0000277	Symond Frey
+ui0000278	Danwell Frey
+ui0000279	Merrett Frey
+ui0000280	Geremy Frey
+ui0000281	Raymund Frey
+ui0000282	Jammos Frey
+ui0000283	Whalen Frey
+ui0000284	Morya Frey
+ui0000285	Tyta Frey
+ui0000286	Perwyn Frey
+ui0000287	Willamen Frey
+ui0000288	Arwyn Frey
+ui0000289	Wendel Frey
+ui0000290	Colmar Frey
+ui0000291	Waltyr Frey
+ui0000292	Elmar Frey
+ui0000293	Melwys Rivers
+ui0000294	Jeyne Rivers
+ui0000295	Martyn Rivers
+ui0000296	Ronel Rivers
+ui0000297	Mellara Rivers
+ui0000298	Other bastards
+ui0000299	Ysilla Royce

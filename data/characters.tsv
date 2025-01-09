@@ -1,0 +1,597 @@
+#uid	name	nickname	gender	birth_name	birth_year	birth_place	death_year	death_details
+ch0010187	Ros		female			The winter town, the North	300	King's Landing, the Crownlands
+ch0010188	Olenna Tyrell		female	Olenna Redwyne		The Arbor, the Reach	304	Highgarden, the Reach
+ch0014591	Ryger Rivers		male			The Riverlands, Westeros	303	The Twins, the Riverlands
+ch0045904	Locke		male					
+ch0085768	The Bear		male					
+ch0123670	Mero		male			Braavos	299	Meereen
+ch0145135	Catelyn Stark		female	Catelyn Tully	264	Riverrun, the Riverlands	300	The Twins, the Riverlands
+ch0146096	Tyrion Lannister		male		273	Casterly Rock, the westerlands		
+ch0153996	Benjen Stark		male		267	Winterfell, the North	304	Beyond the Wall, Westeros
+ch0154681	Eddard Stark	Ned	male		263	Winterfell, the North	298	Great Sept of Baelor, King's Landing
+ch0155775	Viserys Targaryen		male		276	Red Keep, King's Landing	298	Vaes Dothrak, the Dothraki sea
+ch0155776	Robert Baratheon		male		252	Storm's End, the Stormlands	298	Red Keep, King's Landing
+ch0155777	Jon Snow		male	Aegon Targaryen	281	Tower of Joy, Dorne	302	Castle Black, the Gift
+ch0156278	Joffrey Baratheon		male		282	Red Keep, King's Landing	301	Red Keep, King's Landing
+ch0158137	Sansa Stark		female		285	Winterfell, the North		
+ch0158221	Jorah Mormont		male		254	Bear Island, the North		
+ch0158526	Theon Greyjoy		male		281	Pyke, the Iron Islands	305	Winterfell, the North
+ch0158527	Jaime Lannister	The Kingslayer	male		266	Casterly Rock, the westerlands		
+ch0158596	Robb Stark		male		281	Riverrun, the Riverlands	300	The Twins, the Riverlands
+ch0158597	Daenerys Targaryen		female		281	Dragonstone, the Crownlands	305	Throne room, King's Landing
+ch0158604	Arya Stark		female		287	Winterfell, the North		
+ch0159526	Cersei Lannister		female					
+ch0162882	Sandor Clegane	The Hound	male		270	Westerlands	305	Red Keep, King's Landing
+ch0171388	Khal Drogo		male					
+ch0171390	Waymar Royce		male		278	Runestone, the Vale of Arryn	298	The Haunted Forest, beyond the Wall
+ch0171391	Rodrik Cassel		male		248	Winterfell, the North	299	Winterfell, the North
+ch0171393	Maester Luwin		male					
+ch0171394	Will		male			The Riverlands, Westeros	298	Near Winterfell, the North
+ch0171395	Gared		male		241	Westeros	298	near Winterfell, the North
+ch0172909	Illyrio Mopatis		male			Pentos		
+ch0229099	Mord		male			Vale of Arryn		
+ch0231428	Loras Tyrell		male			Highgarden, the Reach	303	Great Sept of Baelor, King's Landing
+ch0232836	Grand Maester Pycelle		male					
+ch0233141	Rickon Stark		male		292	Winterfell, the North	303	Near Winterfell, the North
+ch0234897	Bran Stark		male	Brandon Stark	288	Winterfell, the North		
+ch0238584	Hodor		male					
+ch0238585	Myrcella Baratheon		female		288	Red Keep, King's Landing	302	Narrow Sea, near Dorne
+ch0241345	Bronn		male		264			
+ch0241346	Barristan Selmy		male		236	Harvest Hall, the Stormlands	302	Meereen
+ch0242185	Tywin Lannister		male		242	Casterly Rock, the westerlands	300	Tower of the Hand, King's Landing
+ch0244961	Samwell Tarly		male		280	Horn Hill, the Reach		
+ch0245400	Jory Cassel		male		273	Winterfell, the North	298	King's Landing, the Crownlands
+ch0245401	Gregor Clegane	The Mountain	male				305	Red Keep, King's Landing
+ch0245982	Petyr Baelish	Littlefinger	male		268	The Fingers, the Vale of Arryn	304	Winterfell, the North
+ch0246162	Qotho		male				298	Dothraki sea
+ch0246253	Renly Baratheon		male		277	Storm's End, the Stormlands	299	Near Storm's End, the Stormlands
+ch0246254	Ilyn Payne		male					
+ch0246933	Meryn Trant		male			In the Stormlands	302	
+ch0246934	Syrio Forel		male			In Braavos	298	King's Landing
+ch0246936	Maester Aemon		male					
+ch0246938	Alliser Thorne		male		247	In the Crownlands	303	
+ch0248504	Doreah		female		274	Lys	299	Locked inside a vault to die by Daenerys Targaryen
+ch0248505	Septa Mordane		female					
+ch0249444	Irri		female		283	Dothraki Sea		
+ch0249636	Lord Varys		male					
+ch0250564	Shae		female	Lorath	280	Westeros	301	Tower of the Hand, King's Landing
+ch0250897	Stannis Baratheon		male			Storm's End, the Stormlands	302	Wolfswood near Winterfell, the North
+ch0251492	Jeor Mormont		male		230	Bear Island, the North	299	Craster's Keep, beyond the Wall
+ch0251493	Yoren		male			Westeros	299	Near Harrenhal, the Riverlands
+ch0251495	Rakharo		male			Dothraki Sea		
+ch0251496	Grenn		male		281	Westeros	301	Castle Black, the Wall
+ch0251498	Rast		male					
+ch0251736	Lysa Arryn		female	Lysa Tully	266	Riverrun, the Riverlands	301	The Eyrie, the Vale of Arryn
+ch0251737	Jon Arryn		male		218	The Eyrie, the Vale of Arryn	298	Red Keep, King's Landing
+ch0251974	Margaery Tyrell		female			Highgarden, the Reach	303	Great Sept of Baelor, King's Landing
+ch0254503	Brienne of Tarth		female			Evenfall Hall, Tarth		
+ch0255280	Maester Cressen		male					
+ch0255396	Davos Seaworth		male	Davos of Flea Bottom	260	Flea Bottom, King's Landing		
+ch0256424	Tommen Baratheon		male		289		303	Red Keep, King's Landing
+ch0257030	Lommy Greenhands		male			King's Landing	299	the riverlands
+ch0259178	Hallyne		male			Westeros		
+ch0259179	Jaqen H'ghar		male			In Lorath		
+ch0266524	Black Lorren		male			The Iron Islands, the Seven Kingdoms	299	Winterfell, the North
+ch0270368	Margaery's Handmaiden		female					
+ch0273432	Hot Pie		male					
+ch0273477	Pypar		male			Westeros		
+ch0287523	Melisandre		female					
+ch0292152	Balon Greyjoy		male			At Pyke	303	Thrown from a bridge by Euron Greyjoy
+ch0294458	Vardis Egen		male			The Vale of Arryn	298	The Eyrie, the Vale of Arryn
+ch0295802	Osha		female					
+ch0300040	Gendry		male		284	King's Landing		
+ch0300217	Yara Greyjoy		female			At Pyke		
+ch0300218	Craster		male			Beyond the Wall	300	Craster's Keep, beyond the Wall
+ch0300651	Janos Slynt		male			In King's Landing	302	Beheaded by Jon Snow for insubordination
+ch0300949	Robin Arryn		male		289	Red Keep, King's Landing		
+ch0303950	Xaro Xhoan Daxos		male			In the Summer Isles	299	Locked inside his vault to die by Daenerys Targaryen
+ch0303951	Qhorin Halfhand		male			Westeros	299	Skirling Pass
+ch0303952	Pyat Pree		male			Qarth		
+ch0304492	Ygritte		female		280	Beyond the Wall	301	Castle Black, the Wall
+ch0304494	Joyeuse Erenford		female		282			
+ch0304762	Dagmer Cleftjaw		male					
+ch0304921	White Walker		male					
+ch0304969	Kovarro		male					
+ch0304972	Stiv		male			In Westeros	298	Shot in the back by Theon Greyjoy
+ch0305001	Marillion		male		279	Westeros	300	the Eyrie
+ch0305002	Amory Lorch		male		246	Westerlands	299	Harrenhal
+ch0305003	Othell Yarwyck		male			The Westerlands	303	Castle Black
+ch0305004	Timett		male		278	In the Mountains of the Moon		
+ch0305005	Spice King		male			In Qarth	299	Throat slit by a duplicate of Pyat Pree
+ch0305006	Roose Bolton		male		260	Dreadfort, the North	303	Winterfell, the North
+ch0305007	Talisa Maegyr		female					
+ch0305008	Eddison Tollett		male			The Vale of Arryn	305	Winterfell, the North
+ch0305010	Greatjon Umber		male			At Last Hearth	300	Died during the War of the Five Kings
+ch0305011	Mirri Maz Duur		female			Lhazar, Essos	298	The wastelands beyond Lhazar, Essos
+ch0305012	Alton Lannister		male					
+ch0305013	Kevan Lannister		male		244	Casterly Rock	300	King's Landing
+ch0305014	Armeca		female			Flea Bottom, King's Landing		
+ch0305015	Daisy		female			At Haystack Hall		
+ch0305018	Nan		female					
+ch0305019	Rorge		male			Westeros	301	Near the Mountains of the Moon, the Vale of Arryn
+ch0305021	Shagga		male			In the Mountains of the Moon		
+ch0305022	Quaithe		female			Asshai		
+ch0305023	Polliver		male			Westerlands	300	the inn at the crossroads
+ch0305026	Hugh of the Vale		male					
+ch0305027	Farlen		male			At Winterfell	299	Killed during the Sack of Winterfell
+ch0305028	Biter		male			Westeros	301	Near the Mountains of the Moon
+ch0305029	Matthos Seaworth		male			In the Stormlands	299	Killed by a wildfire explosion caused by Bronn, on the orders of Tyrion Lannister, during the Battle of the Blackwater
+ch0305030	Drennan		male			In the Iron Islands	299	Throat slit by Osha
+ch0305031	Dontos Hollard		male		261	near Duskendale	300	Blackwater Bay
+ch0305033	The Tickler		male					
+ch0305034	Jacks		male					
+ch0305036	Bowen Marsh		male					
+ch0305037	Goldcloak		male					
+ch0305038	Mhaegen		female					
+ch0305039	Tobho Mott		male			Qohor		
+ch0305040	Leo Lefford		male				299	the Red Fork of the Trident
+ch0305041	Lord Galbart Glover		male					
+ch0305042	Pentoshi Servant							
+ch0305043	Wight Wildling Girl		female					
+ch0305044	Jhiqui		female		284	Dothraki Sea		
+ch0305045	Mycah		male		285		298	the riverlands, near the ruby ford
+ch0305046	Catspaw Assassin		male					
+ch0305047	Lannister Guardsman		male					
+ch0305048	Royal Steward		male					
+ch0305308	Lannister Captain		male					
+ch0305311	Stark Guard		male					
+ch0305314	Masha Heddle		female				298	Crossroads inn
+ch0305315	Willis Wode		male			The Riverlands, Westeros	298	The Eastern Road, the Vale of Arryn
+ch0305317	Knight of House Frey		male					
+ch0305319	Night's Watch Deserter		male					
+ch0305320	Beric Dondarrion		male		276	At Blackhaven	305	the riverlands
+ch0305321	Eon Hunter		male		220	Longbow Hall	299	
+ch0305322	Knight of House Lynderly		male					
+ch0305323	Wine Merchant		male					
+ch0305324	Jaremy Rykker		male			In Duskendale	298	Castle Black
+ch0305325	Tomard		male			In the North		
+ch0305326	Arthur		male					
+ch0305327	Night's Watch Messenger		male					
+ch0305328	Walder Frey		male		208	The Twins, the Riverlands	303	The Twins, the Riverlands
+ch0305329	Stevron Frey		male		233	The Twins, the Riverlands	303	The Twins, the Riverlands
+ch0305331	Rickard Karstark		male			Karhold	299	Riverrun
+ch0305332	Jonos Bracken		male			At Stone Hedge		
+ch0305333	Addam Marbrand		male			Ashemark		
+ch0305334	Lord Portan		male					
+ch0305888	Rattleshirt	Lord of Bones	male					
+ch0306046	Podrick Payne		male		286	Westerlands		
+ch0306220	Mandon Moore		male			Vale of Arryn	299	the Blackwater Rush
+ch0306346	Shireen Baratheon		female		289	Dragonstone, the Crownlands	302	Near Long Lake, the North
+ch0306456	Winterfell Shepherd		male					
+ch0306819	Gilly		female		282	At Craster's Keep		
+ch0309687	Ellaria Sand		female			At Hellholt	304	
+ch0316921	Jojen Reed		male		286	At Greywater Watch	301	Stabbed repeatedly by a wight and euthanized by Meera Reed
+ch0316922	Orell		male					
+ch0316923	Missandei		female		288	Naath		
+ch0316924	Selyse Baratheon		female	Selyse Florent		Brightwater Keep, the Reach	302	Near Long Lake, the North
+ch0316925	Tormund Giantsbane		male					
+ch0316926	Myranda		female					
+ch0316927	Thoros of Myr		male					
+ch0316928	Meera Reed		female		283	At Greywater Watch		
+ch0316929	Qyburn		male		217	Westeros		
+ch0316930	Anguy		male			Dornish Marches, the Stormlands		
+ch0316931	Edmure Tully		male		270	Riverrun, the Riverlands		
+ch0321004	Ramsay Snow		male					
+ch0323607	Mirelle		female					
+ch0327535	Woman Prisoner		female					
+ch0334882	Maggy		female					
+ch0335038	Grey Worm		male			Summer Isles		
+ch0335039	Mance Rayder		male					
+ch0335040	Daario Naharis		male			Tyrosh		
+ch0339503	Kraznys mo Nakloz		male			Astapor	299	Plaza of Punishment, Astapor
+ch0339504	Prendahl na Ghezn		male				300	Yunkai, Slaver's Bay
+ch0345051	Silk King		male			In Qarth	299	Throat slit by a duplicate of Pyat Pree
+ch0348391	Wildling Rioter		male					
+ch0348528	Mikken		male				299	Winterfell, the North
+ch0350989	Colen of Greenpools		male			At Greenpools		
+ch0376927	Lancel Lannister		male		282	Westerlands		
+ch0379224	Lordsport Dockhand		male					
+ch0379226	Varly		male			In the North	298	Killed by the City Watch during a massacre
+ch0379227	Mago		male					
+ch0379228	Lannister Messenger		male					
+ch0379229	Red Keep Stableboy		male					
+ch0379230	Lannister Scout		male					
+ch0381104	Salladhor Saan		male			At Lys		
+ch0381563	Brynden Tully	Blackfish	male		243	Riverrun, the Riverlands	303	Riverrun, the Riverlands
+ch0384328	Mace Tyrell		male		256	At Highgarden	303	Great Sept of Baelor, King's Landing
+ch0384471	Lothar Frey		male		264	The Twins, the Riverlands	303	The Twins, the Riverlands
+ch0391563	Roslin Frey		female		282	Twins		
+ch0392307	Oberyn Martell		male		257	Sunspear	300	King's Landing
+ch0395355	Martyn Lannister		male		285	Westerlands		
+ch0395356	Willem Lannister		male		285	Westerlands	299	Riverrun
+ch0396528	Karl Tanner		male			Gin Alley, the Crownlands	301	Craster's Keep, beyond the Wall
+ch0396530	Steelshanks Walton		male					
+ch0396531	Greizhen mo Ullhor		male			In Astapor	300	Killed by the Unsullied on the orders of Daenerys Targaryen during the fall of Astapor
+ch0400416	Styr		male			In Thenn	301	Castle Black
+ch0403194	Olyvar		male					
+ch0411375	Drowned Priest		male					
+ch0413591	Razdal mo Eraz		male			Yunkai, Slaver's Bay	303	Meereen, Slaver's Bay
+ch0414315	Child of the Forest							
+ch0414457	Three-Eyed Raven		male					
+ch0414458	Hizdahr zo Loraq		male					
+ch0431526	Kayla		female					
+ch0431527	Marei		female		280			
+ch0441614	Male Prostitute		male					
+ch0467999	Leaf		female					
+ch0468001	Obara Sand		female		271	Oldtown, the Reach	304	The Black Wind, Blackwater Bay
+ch0468006	Doran Martell		male		247	Sunspear		
+ch0468074	Nymeria Sand		female		274	Yi Ti, Further East	304	The Black Wind, Blackwater Bay
+ch0468075	Tyene Sand		female		276	Westeros	304	King's Landing, the Crownlands
+ch0468190	Tycho Nestoris		male			Braavos		
+ch0470706	Yezzan zo Qaggaz		male					
+ch0473552	Ternesio Terys		male			In Braavos		
+ch0476558	Lhara		female					
+ch0476559	High Sparrow		male					
+ch0478670	Citadel Maester		male					
+ch0506400	Trystane Martell		male		287	Sunspear		
+ch0506401	Walda Bolton		female	Walda Frey		The Twins, the Riverlands	303	Winterfell, the North
+ch0506962	Wedding Band							
+ch0507107	Areo Hotah		male		257	Norvos		
+ch0508053	Mossador		male					
+ch0508054	The Waif		female					
+ch0508055	Olly		male					
+ch0508056	High Septon		male					
+ch0509452	Todder		male					
+ch0510932	Dongo the Giant		male					
+ch0510933	Mag the Mighty		male					
+ch0511247	Lollys Stokeworth		female		265	At Castle Stokeworth		
+ch0511931	Loboda		male					
+ch0512154	The Night King		male					
+ch0512215	Septa Unella		female					
+ch0512707	Karsi		female					
+ch0517008	Stark Bannerman		male					
+ch0518715	Euron Greyjoy		male			Pyke, the Iron Islands	305	Red Keep, King's Landing
+ch0519184	Malko		male					
+ch0523897	Talla Tarly		female		284	At Horn Hill		
+ch0523969	Gatins		male				303	The Riverlands, the Seven Kingdoms
+ch0524408	Randyll Tarly		male			At Horn Hill	304	Burned alive by Drogon on the orders of Daenerys Targaryen
+ch0524546	Yohn Royce		male			At Runestone		
+ch0524621	Wun Wun		male					
+ch0525536	Great Master		male					
+ch0531846	Merchant Captain		male					
+ch0535371	Khal Rhalko		male					
+ch0537855	Handmaid		female					
+ch0538748	Khal Moro		male					
+ch0539337	Brea		female					
+ch0539344	Vala		female			In Meereen		
+ch0539716	Lead Dornish Guard		male					
+ch0539881	Warlock		male					
+ch0539898	High Priestess		female					
+ch0540065	Kinvara		female					
+ch0540066	Qhono		male					
+ch0540067	Smalljon Umber		male			Last Hearth, the North	303	Near Winterfell, the North
+ch0540081	Aeron Greyjoy	Damphair	male		269	At Pyke	303	
+ch0540082	Hoster Tully		male		238	Riverrun, the Riverlands	300	Riverrun, the Riverlands
+ch0540097	Arthur Dayne		male		260	Starfall, Dorne	281	The Tower of Joy, Dorne
+ch0540153	Ser Endrew Tarth		male					
+ch0540530	Gerold Hightower		male					
+ch0540537	Ornela		female					
+ch0540561	Izembaro		male					
+ch0540863	Thin Man		male					
+ch0540864	Captain of the Archers		male					
+ch0540865	Septon		male					
+ch0540866	Red Priestess		female					
+ch0540869	Septa Scolera		female					
+ch0540870	Zanrush		male					
+ch0541190	Lady Crane		female				303	Throat slit by the Waif
+ch0541191	Melessa Tarly		female	Melessa Florent		At Brightwater Keep		
+ch0541362	Aerys II Targaryen	The Mad King	male			Red Keep, King's Landing	281	Throne room, King's Landing
+ch0541363	Dickon Tarly		male		287	At Horn Hill	304	Burned alive by Drogon on the orders of Daenerys Targaryen
+ch0541364	Bianca		female					
+ch0541747	Robett Glover		male			At Deepwood Motte		
+ch0541790	Bobono		male					
+ch0541878	Brother Ray		male					
+ch0541884	Lyanna Mormont		female		290	Bear Island		
+ch0542106	Lem Lemoncloak		male					
+ch0542917	Harald Karstark		male					
+ch0542918	Dothraki Bloodrider		male					
+ch0542919	Musician		male					
+ch0543132	Howland Reed		male		260	At Greywater Watch		
+ch0543804	Lyanna Stark		female		266	At Winterfell	281	Bled to death following a caesarean section to give birth to Jon Snow
+ch0544229	Donnel Waynwood		male		277	At Ironoaks		
+ch0544520	Akho		male					
+ch0547881	Baby Sam		male					
+ch0550545	Maester Wolkan		male					
+ch0576836	Alys Karstark		female		284	Karhold		
+ch0576869	Kitty Frey		female					
+ch0578265	Archmaester Marwyn		male					
+tt0944947	Ned Umber		male		294	Last Hearth, the North	305	Last Hearth, the North
+ui0000001	Aegon Targaryen		male					
+ui0000002	Brandon Stark		male		262	Winterfell, the North	282	Great Hall, King's Landing
+ui0000003	Drogon		male					
+ui0000004	Elia Martell		female					
+ui0000005	Ghost		male					
+ui0000006	Grey Wind		male					
+ui0000007	Harry Strickland		male			In the Free Cities	305	Speared in the back by Grey Worm during the Battle of King's Landing
+ui0000008	Jafer Flowers		male			In the Reach	298	Killed and reanimated as a wight; subsequently burned by the Night's Watch
+ui0000009	King Joffrey Baratheon Dwarf		male					
+ui0000010	King Renly Baratheon Dwarf		male					
+ui0000011	King Robb Stark Dwarf		male					
+ui0000012	King Stannis Baratheon Dwarf		male					
+ui0000013	Lady		female					
+ui0000014	Nymeria		female					
+ui0000015	Othor		male					
+ui0000016	Rhaegal		male					
+ui0000017	Rhaegar Targaryen		male		258	Summerhall, the Stormlands	281	Ruby Ford, the Riverlands
+ui0000018	Rhaego		male		298	the Dothraki Sea	298	Stillborn; caused by Mirri Maz Duur's bloodmagic
+ui0000019	Rhaella Targaryen		female					
+ui0000020	Rhaenys Targaryen		female					
+ui0000021	Rickard Stark		male		230	At Winterfell	281	Burned alive with wildfire by Aerys II Targaryen
+ui0000022	Shaggydog		male					
+ui0000023	Summer		male					
+ui0000024	Viserion		male					
+ui0000025	Wallen		male			In Westeros	298	Throat slashed by Robb Stark
+ui0000026	Frey Soldier							
+ui0000027	Ghita				292		302	Drank poisoned water from the House of Black and White provided by Arya Stark
+ui0000028	Sons of the Harpy							
+ui0000029	Wights							
+ui0000030	Soldier Tom							
+ui0000031	Bolton Officer							
+ui0000032	Oznak zo Pahl					Meereen	299	Meereen
+ui0000033	Iggo							
+ui0000034	Khal Brozho							
+ui0000035	Khal Qorro							
+ui0000036	Khal Forzho							
+ui0000037	Eleanor							
+ui0000038	Eleanor's Daughter							
+ui0000039	Zalla				298		301	Burned alive by Drogon
+ui0000040	Wight							
+ui0000041	Kevin Eldon							
+ui0000042	Laurence Spellman							
+ui0000043	Little Birds							
+ui0000044	Rebel Slaves							
+ui0000045	King's Landing Boaster							
+ui0000046	Faith Militant							
+ui0000047	Unsullied							
+ui0000048	Frey Crossbowmen							
+ui0000049	Rennick					The Westerlands	299	Oxcross
+ui0000050	Belicho Paenymion							
+ui0000051	Kings Landing Rioters							
+ui0000052	Torrhen Karstark					Karhold	299	the Whispering Wood
+ui0000053	Barra				298	Littlefinger's brothel, King's Landing	299	Littlefinger's brothel, King's Landing
+ui0000054	Despondent Man							
+ui0000055	Norvoshi Pit Fighter							
+ui0000056	Meereenese Champion							
+ui0000057	Pack of Wights							
+ui0000058	Johnna							
+ui0000059	Willa							
+ui0000060	Wildling							
+ui0000061	Mountain Clansman							
+ui0000062	Catelyn Tully		female					
+ui0000063	Donnel Hill					Westerlands		
+ui0000064	Cooper						301	Castle Black, the Wall
+ui0000065	Axell Florent					At Brightwater Keep	301	Dragonstone, Blackwater Bay, the Crownlands
+ui0000066	Son of the Harpy					In Meereen	302	Killed by Mossador
+ui0000067	Bolton Soldier							
+ui0000068	Khal Jhaqo's Khalasar							
+ui0000069	Ramsay Snow's Hounds							
+ui0000070	Master Torturer							
+ui0000071	Medger Cerwyn				255	At Castle Cerwyn	302	Harrenhal
+ui0000072	Lady Cerwyn							
+ui0000073	Unidentified Cerwyn							
+ui0000074	Woman							
+ui0000075	Boar							
+ui0000076	Kings Landing Rioter							
+ui0000077	Lowell							
+ui0000078	Dying Man							
+ui0000079	Steve						303	The Riverlands, the Seven Kingdoms
+ui0000080	Riddell						303	The Riverlands, the Seven Kingdoms
+ui0000081	Morgan							
+ui0000082	Gordy					In the North	302	Stabbed in the throat by Stannis Baratheon during the battle in the ice
+ui0000083	Simpson					In the North	302	Stabbed in the neck by Stannis Baratheon during the battle in the ice
+ui0000084	Olly's Mother							
+ui0000085	Tortured Prisoner							
+ui0000086	Harrag							
+ui0000087	Maester Caleotte							
+ui0000088	Man							
+ui0000089	Guymon						301	Shot in the head with an arrow by Ygritte
+ui0000090	Mole's Town Whore							
+ui0000091	Quellon Greyjoy		male					
+ui0000092	Aegon V Targaryen		male					
+ui0000093	Daenerys I Targaryen							
+ui0000094	Beric Dayne		male					
+ui0000095	Alannys Harlaw		female					
+ui0000096	Robert I Baratheon		male					
+ui0000097	Lyonel Selmy		male					
+ui0000098	Selwyn Tarth		male					
+ui0000099	Minisa Whent		female					
+ui0000100	Bran I the Broken							
+ui0000101	All of his daughters							
+ui0000102	Drogo		male		267	Dothraki sea, Essos	298	Lhazar
+ui0000103	Marya Seaworth		female					
+ui0000104	Melessa Florent		female		235			
+ui0000105	Anya Waynwood		female					
+ui0000106	Bharbo		male					
+ui0000107	Son							
+ui0000108	Joss		male					
+ui0000109	Daughters							
+ui0000110	Father		male					
+ui0000111	Wife							
+ui0000112	Jasper Arryn		male					
+ui0000113	Lysa Tully		female					
+ui0000114	Tanda Stokeworth		female					
+ui0000115	Alerie Hightower		female					
+ui0000116	Luthor Tyrell		male					
+ui0000117	Olenna Redwyne		female					
+ui0000118	Joffrey I Baratheon							
+ui0000119	Tommen I Baratheon							
+ui0000120	Cersei I Lannister		female					
+ui0000121	YiTish noblewoman		female					
+ui0000122	Lowborn Reachwoman		female					
+ui0000123	Baelish		male					
+ui0000124	Steffon Baratheon		male					
+ui0000125	Cassana Estermont		female					
+ui0000126	Gendry Baratheon							
+ui0000127	Sybelle Locke							
+ui0000128	Walda Frey							
+ui0000129	Ramsay Bolton							
+ui0000130	Milkmaid		female					
+ui0000131	Sam							
+ui0000132	Petyr Baratheon							
+ui0000133	Tommard Baratheon					Dragonstone, the Crownlands		Dragonstone, the Crownlands
+ui0000134	Edric Baratheon							
+ui0000135	Dolf		male					
+ui0000136	Selyse Florent		female			Brightwater Keep		
+ui0000137	Olyvar Frey							
+ui0000138	Roslin Tully							
+ui0000139	Waldron Frey							
+ui0000140	Arwaya Frey							
+ui0000141	Derwa Frey							
+ui0000142	Waldra Frey					At the Twins		
+ui0000143	Shirei Frey				292			
+ui0000144	Walder Rivers					The Riverlands, Westeros	303	The Twins, the Riverlands
+ui0000145	Andar Royce		male					
+ui0000146	Elena Egen		female					
+ui0000147	Robar Royce							
+ui0000148	Goatherd		male					
+ui0000149	Damon Marbrand		male					
+ui0000150	Sunderly		female					
+ui0000151	Sigorn of the Thenns							
+ui0000152	Unnamed whore		female					
+ui0000153	Lyarra Stark		female					
+ui0000154	Tully		male					
+ui0000155	Dale Seaworth							
+ui0000156	Allard Seaworth							
+ui0000157	Maric Seaworth							
+ui0000158	Devan Seaworth							
+ui0000159	Stannis Seaworth							
+ui0000160	Steffon Seaworth							
+ui0000161	Eleanor Mooton							
+ui0000162	Steffon Hollard		male					
+ui0000163	Martell		female					
+ui0000164	Mellario of Norvos							
+ui0000165	Arianne Martell							
+ui0000166	Quentyn Martell							
+ui0000167	Unborn child							
+ui0000168	Harmen Uller		male					
+ui0000169	Elia Sand							
+ui0000170	Obella Sand							
+ui0000171	Dorea Sand							
+ui0000172	Loreza Sand							
+ui0000173	Gilwood Hunter							
+ui0000174	Eustace Hunter							
+ui0000175	Harlan Hunter							
+ui0000176	Palla							
+ui0000177	Monster				299	Craster's Keep		
+ui0000178	A baker		female					
+ui0000179	Jyana		female					
+ui0000180	Cousin to the Prince of Pentos							
+ui0000181	Serra							
+ui0000182	Joanna Lannister		female					
+ui0000183	Mormont		male					
+ui0000184	Jeyne Royce							
+ui0000185	Rowena Arryn							
+ui0000186	Stillborn daughter							
+ui0000187	Two stillborn children							
+ui0000188	Robert Arryn				292			
+ui0000189	Wylla		female					
+ui0000190	Ashara Dayne		female					
+ui0000191	Fisherman's daughter		female					
+ui0000192	Unknown							
+ui0000193	Bracken							
+ui0000194	Harry Rivers							
+ui0000195	Barbara Bracken							
+ui0000196	Jayne Bracken							
+ui0000197	Catelyn Bracken							
+ui0000198	Bess Bracken							
+ui0000199	Alysanne Bracken							
+ui0000200	Unnamed Glover							
+ui0000201	Lynesse Hightower							
+ui0000202	Martyn Cassel		male					
+ui0000203	Tytos Lannister		male					
+ui0000204	Jeyne Marbrand		female					
+ui0000205	Dorna Swyft		female					
+ui0000206	Janei Lannister							
+ui0000207	Amerei Frey							
+ui0000208	Bronn of the Blackwater							
+ui0000209	Tyrion Tanner							
+ui0000210	Alyssa Blackwood		female					
+ui0000211	Leonella Lefford							
+ui0000212	Tysane Frey							
+ui0000213	Emberlei Frey							
+ui0000214	Leana Frey							
+ui0000215	Maege Mormont		female		239	Bear Island		
+ui0000216	Willas Tyrell							
+ui0000217	Garlan Tyrell							
+ui0000218	Dacey Mormont							
+ui0000219	Alysane Mormont							
+ui0000220	Lyra Mormont							
+ui0000221	Jorelle Mormont							
+ui0000222	Jonelle Cerwyn							
+ui0000223	Cley Cerwyn							
+ui0000224	Alester Florent		male					
+ui0000225	Melara Crane		female					
+ui0000226	Two daughters							
+ui0000227	A butcher		male					
+ui0000228	A Volantene noblewoman		female					
+ui0000229	An Oldtown whore		female					
+ui0000230	Sarella Sand							
+ui0000231	Alayne		female					
+ui0000232	Harrion Karstark							
+ui0000233	Eddard Karstark							
+ui0000234	Edwyle Stark		male					
+ui0000235	Marna Locke		female					
+ui0000236	Sybelle Glover							
+ui0000237	Gawen Glover							
+ui0000238	Erena Glover							
+ui0000239	Three wives							
+ui0000240	Beth Cassel							
+ui0000241	Unnamed							
+ui0000242	Bethany Ryswell							
+ui0000243	"Fat" Walda Frey							
+ui0000244	Sons who died in the cradle							
+ui0000245	Domeric Bolton							
+ui0000246	Bethany Rosby		female					
+ui0000247	Unknown smallfolk		female					
+ui0000248	Wives							
+ui0000249	Clegane		male					
+ui0000250	Ryam Florent		male					
+ui0000251	Black Walder Frey		male					
+ui0000252	Annara Farring		female					
+ui0000253	Perra Royce		female					
+ui0000254	Corenna Swann							
+ui0000255	Jeyne Lydden							
+ui0000256	Marsella Waynwood							
+ui0000257	Ryman Frey							
+ui0000258	Aegon Frey							
+ui0000259	Maegelle Frey							
+ui0000260	Walton Frey							
+ui0000261	Yorko Terys							
+ui0000262	Denyo Terys							
+ui0000263	Mellario		female					
+ui0000264	A septa from the Reach		female					
+ui0000265	Tysha							
+ui0000266	Frey		male					
+ui0000267	Cyrenna Swann							
+ui0000268	Amarei Crakehall							
+ui0000269	Sarya Whent							
+ui0000270	Emmon Frey							
+ui0000271	Aenys Frey							
+ui0000272	Perriane Frey							
+ui0000273	Jared Frey							
+ui0000274	Luceon Frey							
+ui0000275	Hosteen Frey							
+ui0000276	Lythene Frey							
+ui0000277	Symond Frey							
+ui0000278	Danwell Frey							
+ui0000279	Merrett Frey							
+ui0000280	Geremy Frey							
+ui0000281	Raymund Frey							
+ui0000282	Jammos Frey							
+ui0000283	Whalen Frey							
+ui0000284	Morya Frey							
+ui0000285	Tyta Frey							
+ui0000286	Perwyn Frey							
+ui0000287	Willamen Frey							
+ui0000288	Arwyn Frey							
+ui0000289	Wendel Frey							
+ui0000290	Colmar Frey							
+ui0000291	Waltyr Frey							
+ui0000292	Elmar Frey							
+ui0000293	Melwys Rivers							
+ui0000294	Jeyne Rivers							
+ui0000295	Martyn Rivers							
+ui0000296	Ronel Rivers							
+ui0000297	Mellara Rivers							
+ui0000298	Other bastards							
+ui0000299	Ysilla Royce							
