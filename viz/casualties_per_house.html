@@ -145,23 +145,33 @@
 
       // calculating casulties per house and average screen time
       const houseCasualties = d3.rollup(
-        deadCharacters,
-        v => {
-          const totalScreenTime = d3.sum(v, row => screenTimeMap.get(row.uid) || 0);
-          // unique dead characters in this group
-          const uniqueUIDs = new Set(v.map(row => row.uid));
-          // use the size of unique ids for casualty count
-          const casualtyCount = uniqueUIDs.size;
-          const avgScreenTime = casualtyCount > 0 ? totalScreenTime / casualtyCount : 0;
-          return {
-            // count each character once, even if they were killed in multiple scenes
-            casualties: casualtyCount,
-            screenTime: avgScreenTime
-          };
-        },
-        d => houseMap.get(d.uid)
+      deadCharacters,
+      v => {
+        // deduplicate characters based on their id for this house
+        const uniqueCharacters = Array.from(
+          d3.group(v, d => d.uid).values(),
+          group => group[0] // take the first occurrence of each character
         );
-      console.log("House Casualties (incl. avg total screen time):", houseCasualties);
+
+        // total screen time: sum of unique characters' screen time
+        const totalScreenTime = d3.sum(
+          uniqueCharacters,
+          row => screenTimeMap.get(row.uid) || 0
+        );
+
+        // number of unique casualties
+        const casualtyCount = uniqueCharacters.length;
+
+        // average screen time
+        const avgScreenTime = casualtyCount > 0 ? totalScreenTime / casualtyCount : 0;
+
+        return {
+          casualties: casualtyCount,
+          screenTime: avgScreenTime
+        };
+      },
+      d => houseMap.get(d.uid) // group by house
+    );
 
       // prepare final data array
       const data = Array.from(houseCasualties, ([house, values]) => ({
